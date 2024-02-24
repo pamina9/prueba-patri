@@ -1,6 +1,6 @@
 ---
 title: Desfile de Los Genitores
-layout: timelinejs
+layout: about
 permalink: /desfile.html
 ---
 
