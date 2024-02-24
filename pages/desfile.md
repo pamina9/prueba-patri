@@ -27,7 +27,7 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 - Card -- > `{% raw %}{% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indginas denominados Hacaritamas habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." objectid="demo004" width="25" centered=true %}{% endraw %}`
 
-{% include feature/card.html header="Magia" text="The card features an image from the collection as a cap" objectid="demo_001" width="50" centered=true %}
+{% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indginas denominados Hacaritamas habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." width="50" centered=true %}
 
 - 
 
