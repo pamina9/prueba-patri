@@ -25,7 +25,9 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 - Comparsa: Primeros Pobladores
 >No hay muchas investigaciones arqueológicas, pero se conocen al menos dos culturas, la cultura mosquito y cultura de las Urnas o cultura del Magdalena, que es de origen caribe. Existen petroglifos diseminados en toda la provincia de Ocaña. La denominación de Carates fue dada de manera genérica a una serie de pueblo dispersos en la rivera del Catatumbo y zona montañosa de Ocaña, quedando de ellos solo algunos en poblaciones como Aspacica, Teorama, Brotaré y parcialidades como Siruga, simitarigua, Oropoma, Torcoroma, Burbura y Otras. Estos pueblos denominaron como Argutaca al lugar donde hoy se levanta la ciudad de Ocaña y al río Tejo, Tomarira. Usaban armas rudimentarias y vestuario hecho de algodón.
 
-{% include feature/card.html header="Magia" text="El nombre 'Hacaritama' que muchas veces ha sido asociado a nativos de la región es un mito, realmente no hay evidencia de su existencia. Ocaña no fue una conquista fue una colonia." objectid="comparsa01" width="50" centered=true %}
+- Card -- > `{% raw %}{% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indginas denominados Hacaritamas habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." objectid="demo004" width="25" centered=true %}{% endraw %}`
+
+{% include feature/card.html header="Magia" text="The card features an image from the collection as a cap" objectid="demo_001" width="50" centered=true %}
 
 - 
 
