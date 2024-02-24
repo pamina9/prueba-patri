@@ -10,7 +10,9 @@ permalink: /desfile.html
 
 ## Sobre el desfile
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+El desfile de Los Genitores es la puesta en escena de los eventos más significativos de la historia de la ciudad de Ocaña, inicia con la época prehispánica y finaliza con acontecimientos de mediados del siglo XX. Para el desarrollo de las comparsas se tomó como fundamento el libro "Los Genitores" del escritor ocañero Alejo Amaya.
+A medida que las investigaciones históricas se van avanzando, se realizan precisiciones en las comparsas y cuadros del delfino incorporando pequeños cambios cada año.
+El desfile hace parte del patrimonio inmaterial, es una tradición viva que cada año revive en actores los personajes y situaciones que han hecho parte de la historia de la ciiudad. 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
