@@ -42,3 +42,7 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
  - Comparsa: Los Alabarderos
 
  {% include feature/alert.html text="*Eran soldados armados de Alabarda que inicialmente constituían un cuerpo de ejército y posteriormente daban guardia de honor o custodiaban a reyes, príncipes o nobles, durante los siglos XV y XVI tuvieron su época de esplendor como cuerpo de combate hasta la invención de las armas de fuego, momento en el que dejaron de existir como tropa, su misión era derribar a los jinetes y rematarlos en el suelo, también se mostraron eficaces en el combate cuerpo a cuerpo. En los siglos posteriores su función fue meramente protocolaria. En el desfile de los genitores Los Alabarderos constituye una comparsa amistosa que acompaña el recorrido para rememorar la fastuosidad de aquellos tiempos épicos.* " color="warning" align="left" width="50" %}
+
+ ## Línea de tiempo del desfile
+
+ {% include feature/timelinejs.html %}
