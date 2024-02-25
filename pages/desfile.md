@@ -6,7 +6,7 @@ permalink: /desfile.html
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="Sobre el desfile;Cuadros y comparsas" %}
 
 ## Sobre el desfile
 
@@ -18,7 +18,7 @@ El desfile hace parte del patrimonio inmaterial, es una tradición que revive ca
 
 El desfile está compuesto de varios cuadros, que a su vez se representan en comparsas. Las comparsas reviven hitos, personajes, situaciones a través de la actuación, la música y la danza.
 
-## Cuadros y comparsas del desfile
+## Cuadros y comparsas
 
 #### Cuadro: Época Prehispánica
 
