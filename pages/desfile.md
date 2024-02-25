@@ -18,7 +18,7 @@ El desfile hace parte del patrimonio inmaterial, es una tradición que revive ca
 
 El desfile está compuesto de varios cuadros, que a su vez se representan en comparsas. Las comparsas reviven hitos, personajes, situaciones a través de la actuación, la música y la danza.
 
-### Cuadros y comparsas del desfile
+## Cuadros y comparsas del desfile
 
 #### Cuadro: Época Prehispánica
 
