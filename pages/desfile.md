@@ -46,3 +46,5 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
  ## Línea de tiempo del desfile
 
 {%- assign json = 'https://docs.google.com/spreadsheets/d/1BSEpanSSAVpmvL8UJVa_MiKqY_OKhKfpswXXBApkwXg/edit#gid=585697009' | default: '/assets/data/timelinejs.json' | relative_url -%}
+
+{% include pages/desfile/linea_desfile.html %}
