@@ -29,9 +29,7 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 {% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indigenas denominados 'Hacaritamas' habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." width="50" centered=true %}
 
-{% include feature/jumbotron.html objectid="assets/img/des_1.jpg" %}
-
-{% include feature/image.html objectid="assets/img/des_1.jpg" width="75" alt="Comparsa Los Primeros pobladores" %}
+{% include feature/image.html objectid="assets/img/des_1.jpg" width="50" alt="Comparsa Los Primeros pobladores" %}
 
 #### Cuadro: Fundación
 - Comparsa: Los conquistadores
@@ -39,6 +37,6 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
  {% include feature/alert.html text="*Encabeza la comparsa el fundador de Ocaña, Francisco Fernández de Contreras. El cabildo de Pamplona encomendó encontrar una ruta que comunicara rápidamente la Nueva Pamplona y el río grande de la Magdalena y los puertos de la costa norte. Después de expediciones exploratorias y de obtener los permisos de rigor en Santa Marta, siendo el gobernador de esta provincia, Pedro Fernández del Busto, el capitán fundó el puerto real primero sobre el Magdalena y luego la ciudad de Ocaña el 14 de diciembre de 1570. El vestuario y la utilería de esta comparsa se ha tomado de las representaciones iconográficas de la conquista y de la colonia.* " color="warning" align="left" width="50" %}
 
- -Comparsa: Los Alabarderos
+ - Comparsa: Los Alabarderos
 
  {% include feature/alert.html text="*Eran soldados armados de Alabarda que inicialmente constituían un cuerpo de ejército y posteriormente daban guardia de honor o custodiaban a reyes, príncipes o nobles, durante los siglos XV y XVI tuvieron su época de esplendor como cuerpo de combate hasta la invención de las armas de fuego, momento en el que dejaron de existir como tropa, su misión era derribar a los jinetes y rematarlos en el suelo, también se mostraron eficaces en el combate cuerpo a cuerpo. En los siglos posteriores su función fue meramente protocolaria. En el desfile de los genitores Los Alabarderos constituye una comparsa amistosa que acompaña el recorrido para rememorar la fastuosidad de aquellos tiempos épicos.* " color="warning" align="left" width="50" %}
