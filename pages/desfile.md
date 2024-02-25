@@ -29,7 +29,7 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 {% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indigenas denominados 'Hacaritamas' habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." width="50" centered=true %}
 
-{% include feature/image.html assets/img/des_1.jpg width="75" %}
+{% include feature/image.html /assets/img/des_1.jpg width="75" alt="Desfile de los genitores 2024" %}
 
 #### Cuadro: Fundación
 - Comparsa: Los conquistadores
