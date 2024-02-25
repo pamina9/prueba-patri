@@ -29,10 +29,12 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 {% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indigenas denominados 'Hacaritamas' habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." width="50" centered=true %}
 
-{% include feature/image.html /assets/img/des_1.jpg width="75" alt="Desfile de los genitores 2024" %}
+{% include feature/image.html objectid=I5 width="75" %}
 
 #### Cuadro: Fundación
 - Comparsa: Los conquistadores
 >Esta comparsa representa la fundación de Ocaña, este era un formalismo para fundar las ciudades. El acto se llevó con 36 personas: Francisco Fernandes (el fundador), un cura y 36 soldados
 
  {% include feature/alert.html text="*Encabeza la comparsa el fundador de Ocaña, Francisco Fernández de Contreras. El cabildo de Pamplona encomendó encontrar una ruta que comunicara rápidamente la Nueva Pamplona y el río grande de la Magdalena y los puertos de la costa norte. Después de expediciones exploratorias y de obtener los permisos de rigor en Santa Marta, siendo el gobernador de esta provincia, Pedro Fernández del Busto, el capitán fundó el puerto real primero sobre el Magdalena y luego la ciudad de Ocaña el 14 de diciembre de 1570. El vestuario y la utilería de esta comparsa se ha tomado de las representaciones iconográficas de la conquista y de la colonia.* " color="warning" align="left" width="50" %}
+
+ -Comparsa: Los Alabarderos
