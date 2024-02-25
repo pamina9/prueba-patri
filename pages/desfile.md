@@ -29,7 +29,7 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 {% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indginas denominados Hacaritamas habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." width="50" centered=true %}
 
-{% include desfile/carrusel1.html %} 
+
 
 #### Cuadro: Fundación
 - Comparsa: Los conquistadores
