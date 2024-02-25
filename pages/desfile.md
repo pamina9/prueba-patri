@@ -31,6 +31,8 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 {% include feature/jumbotron.html objectid="assets/img/des_1.jpg" %}
 
+{% include feature/image.html objectid="assets/img/des_1.jpg" width="75" %}
+
 #### Cuadro: Fundación
 - Comparsa: Los conquistadores
 >Esta comparsa representa la fundación de Ocaña, este era un formalismo para fundar las ciudades. El acto se llevó con 36 personas: Francisco Fernandes (el fundador), un cura y 36 soldados
