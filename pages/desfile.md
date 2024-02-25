@@ -29,8 +29,6 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 {% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indigenas denominados 'Hacaritamas' habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." width="50" centered=true %}
 
-//{% include pages/desfile/carrusel1.html title="Los primeros pobladores" height=450 %}
-
 #### Cuadro: Fundación
 - Comparsa: Los conquistadores
 >Esta comparsa representa la fundación de Ocaña, este era un formalismo para fundar las ciudades. El acto se llevó con 36 personas: Francisco Fernandes (el fundador), un cura y 36 soldados
