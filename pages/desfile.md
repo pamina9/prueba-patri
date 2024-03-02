@@ -43,8 +43,4 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 >Aunque en el momento de la fundación ya existían las armas de fuego y los indígenas las conocían se incluye esta comparsa donde se puede ver la vestimenta y las alabardas.
  {% include feature/alert.html text="*Eran soldados armados de Alabarda que inicialmente constituían un cuerpo de ejército y posteriormente daban guardia de honor o custodiaban a reyes, príncipes o nobles, durante los siglos XV y XVI tuvieron su época de esplendor como cuerpo de combate hasta la invención de las armas de fuego, momento en el que dejaron de existir como tropa, su misión era derribar a los jinetes y rematarlos en el suelo, también se mostraron eficaces en el combate cuerpo a cuerpo. En los siglos posteriores su función fue meramente protocolaria. En el desfile de los genitores Los Alabarderos constituye una comparsa amistosa que acompaña el recorrido para rememorar la fastuosidad de aquellos tiempos épicos.* " color="warning" align="left" width="50" %}
 
- ## Línea de tiempo del desfile
 
-{%- assign json = 'https://docs.google.com/spreadsheets/d/1BSEpanSSAVpmvL8UJVa_MiKqY_OKhKfpswXXBApkwXg/edit#gid=585697009' | default: '/assets/data/timelinejs.json' | relative_url -%}
-
-{% include pages/desfile/linea_desfile.html %}
