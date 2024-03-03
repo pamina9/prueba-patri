@@ -39,13 +39,19 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
  {% include feature/alert.html text="*Encabeza la comparsa el fundador de Ocaña, Francisco Fernández de Contreras. El cabildo de Pamplona encomendó encontrar una ruta que comunicara rápidamente la Nueva Pamplona y el río grande de la Magdalena y los puertos de la costa norte. Después de expediciones exploratorias y de obtener los permisos de rigor en Santa Marta, siendo el gobernador de esta provincia, Pedro Fernández del Busto, el capitán fundó el puerto real primero sobre el Magdalena y luego la ciudad de Ocaña el 14 de diciembre de 1570. El vestuario y la utilería de esta comparsa se ha tomado de las representaciones iconográficas de la conquista y de la colonia.* " color="info" align="left" width="50" %}
 
+ {% include feature/video.html objectid="https://youtu.be/P6eqNxKAVUs" width="50" caption="youtube caption" %}
+
  - Comparsa: Los Alabarderos
 >Aunque en el momento de la fundación ya existían las armas de fuego y los indígenas las conocían se incluye esta comparsa donde se puede ver la vestimenta y las alabardas.
 
-{% include feature/video.html objectid="https://youtu.be/TFM3XhtuM6k" width="50" caption="youtube caption" %}
+{% include feature/video.html objectid="https://youtu.be/DdXIYWCJLkw" width="50" caption="youtube caption" %}
 
  {% include feature/alert.html text="*Eran soldados armados de Alabarda que inicialmente constituían un cuerpo de ejército y posteriormente daban guardia de honor o custodiaban a reyes, príncipes o nobles, durante los siglos XV y XVI tuvieron su época de esplendor como cuerpo de combate hasta la invención de las armas de fuego, momento en el que dejaron de existir como tropa, su misión era derribar a los jinetes y rematarlos en el suelo, también se mostraron eficaces en el combate cuerpo a cuerpo. En los siglos posteriores su función fue meramente protocolaria. En el desfile de los genitores Los Alabarderos constituye una comparsa amistosa que acompaña el recorrido para rememorar la fastuosidad de aquellos tiempos épicos.* " color="info" align="left" width="50" %}
+ 
 
-### Cuaadro: Colonia
+### Cuadro: Colonia
 
 - Comparsa: Las Amazonas
+>Los caballos eran un medio de transporte para las clases altas, no todas las mujeres tenían acceso a transportarse con este medio
+
+{% include feature/alert.html text="*Toda la elegancia y el donaire tradicional de la mujer ocañera se muestra en esta comparsa y quiere recordar, aquellos, los tiempos del virreinato de la nueva granada en que, no habiendo las posibilidades de utilizar las cómodas literas, debido a lo agreste de la topografía las personas se veían en la necesidad de transportarse en cabalgaduras para efectuar los penosos viajes por los abruptos caminos reales. Las bellas mujeres que acompañaron a los conquistadores en la colonización de nuestro territorio fueron piezas clave para el poblamiento definitivo y del desarrollo de la naciente ciudad. La belleza tradicional de la mujer ocañera aparece en las obras del siglo XVIII ciudad de hermoso mujeriego, nos dice Juan Flórez de Ocariz, en sus Genealogías del Nuevo Reino de Granada muchos autores e intelectuales nacionales han elogiado la belleza de nuestras mujeres les han dedicado hermosos poemas y textos en prosa.* " color="info" align="left" width="50" %}
