@@ -56,6 +56,8 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 - Comparsa: Las Amazonas
 >Los caballos eran un medio de transporte para las clases altas, no todas las mujeres tenían acceso a transportarse con este medio
 
-{% include feature/image.html objectid="assets/img/des_1.jpg;assets/img/des_2.jpg;assets/img/des_3.jpg" alt="Comparsa Los Primeros pobladores;Comparsa Los Primeros pobladores;Comparsa Los Primeros pobladores" %}
+{% include feature/image.html objectid="assets/img/des4_1.jpg;assets/img/des4_2.jpg;assets/img/des4_3.jpg;assets/img/des4_4.jpg" alt="Comparsa Las Amazonas;Comparsa Las Amazonas;Comparsa Las Amazonas;Comparsa Las Amazonas" %}
+
+{% include feature/image.html objectid="assets/img/des4_5.jpg;assets/img/des4_6.jpg;assets/img/des4_7.jpg;assets/img/des4_8.jpg" alt="Comparsa Las Amazonas;Comparsa Las Amazonas;Comparsa Las Amazonas;Comparsa Las Amazonas" %}
 
 {% include feature/alert.html text="*Toda la elegancia y el donaire tradicional de la mujer ocañera se muestra en esta comparsa y quiere recordar, aquellos, los tiempos del virreinato de la nueva granada en que, no habiendo las posibilidades de utilizar las cómodas literas, debido a lo agreste de la topografía las personas se veían en la necesidad de transportarse en cabalgaduras para efectuar los penosos viajes por los abruptos caminos reales. Las bellas mujeres que acompañaron a los conquistadores en la colonización de nuestro territorio fueron piezas clave para el poblamiento definitivo y del desarrollo de la naciente ciudad. La belleza tradicional de la mujer ocañera aparece en las obras del siglo XVIII ciudad de hermoso mujeriego, nos dice Juan Flórez de Ocariz, en sus Genealogías del Nuevo Reino de Granada muchos autores e intelectuales nacionales han elogiado la belleza de nuestras mujeres les han dedicado hermosos poemas y textos en prosa.* " color="info" align="left" width="50" %}
