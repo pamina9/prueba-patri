@@ -6,7 +6,7 @@ description,Descripción,,
 subject,Temas,true
 latitude,Latitud,,
 longitude,Longitud,,
-source,Fuente,,
+source,Fuente,,true
 type,Type,,
 format,Formato,,
 rights,Derechos,,
