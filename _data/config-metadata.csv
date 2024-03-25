@@ -4,7 +4,6 @@ creator,Creator,,
 date,Date Created,,
 description,Description,,
 subject,Temas,true
-location,Location,false
 latitude,Latitude,false,
 longitude,Longitude,false
 source,Source,,
@@ -12,7 +11,7 @@ identifier,Source Identifier,,
 type,Type,,
 format,Formato,,
 rights,Derechos,,
-rightsstatement,Declaración de derechos,,true
+rightsstatement,Declaración de derechos,,
 interes,Interés,,
 subgrupo_patrimonial,Subgrupo de patrimonio,,
 tipo_patrimonio,Tipo de patrimonio,,
