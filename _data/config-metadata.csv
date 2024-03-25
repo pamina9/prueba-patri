@@ -4,10 +4,9 @@ creator,Creator,,
 date,Date Created,,
 description,Description,,
 subject,Temas,true
-latitude,Latitude,false,
-longitude,Longitude,false
+latitude,Latitud,,
+longitude,Longitud,,
 source,Source,,
-identifier,Source Identifier,,
 type,Type,,
 format,Formato,,
 rights,Derechos,,
