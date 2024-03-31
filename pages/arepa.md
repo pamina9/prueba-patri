@@ -6,7 +6,7 @@ permalink: /arepa.html
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="Sobre el desfile;Cuadros y comparsas" %}
+{% include feature/nav-menu.html sections="Arepa Ocañera;Preparación Tradicional;Preparación Casera;Preparación Industrial" %}
 
 ## Arepa Ocañera
 
