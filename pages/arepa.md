@@ -10,15 +10,22 @@ permalink: /arepa.html
 
 ## Arepa Ocañera
 
-El desfile de Los Genitores es la puesta en escena de los eventos más significativos de la historia de la ciudad de Ocaña. Inicia con la época prehispánica y finaliza con acontecimientos de mediados del siglo XX. Para el desarrollo de las comparsas se tomó como fundamento el libro "Los Genitores" del escritor ocañero Alejo Amaya.
-
-A medida que las investigaciones históricas van avanzando, se realizan precisiciones en las comparsas y cuadros del desfile incorporando pequeños cambios.
-
-El desfile hace parte del patrimonio inmaterial, es una tradición que revive cada año a través de más de 800 actores los personajes y situaciones que han hecho historia.
-
-El desfile está compuesto de varios cuadros, que a su vez se representan en comparsas. Las comparsas reviven hitos, personajes, situaciones a través de la actuación, la música y la danza.
+La arepa ocañera es un alimento que se consume diariamente por las familias ocañeras principalmente para la comida y en algunas casas también en el desayuno.
+La preparación de esta arepa hace que tenga unas características especiales en relación con otras arepas. Una de las diferencias con otras arepas es que no lleva sal, debido a que se rellena con queso costeño que es salado, por lo tanto, la arepa en sí misma no tiene sal. Otra de sus características es que al prepararse levan un pellejo crocante dándole su aspecto y textura singular.
+La preparación ha ido teniendo algunos cambios, que responden a los tiempos y actividades de las personas. La preparación tradicional aún se conserva en las familias rurales, se hace con implementos rústicos y en fogones de leña. La preparación casera, en estufas de gas, con sartenes de teflón, tiestos y parrillas, aunque en algunas familias aún se muele el maíz muchas utilizan harina precocida de maíz que no requiere de moler o preparar el maíz. Finalmente, desde hace unos años vienen creciendo las fábricas de arepa donde algunos procesos se han industrializado para producir grandes cantidades de arepas por encargo y se utilizan implementos industriales como molinos y estufas. 
 
 ## Preparación Tradicional
+En la preparación tradicional que no ha desaparecido y que se hace principalmente en zonas rurales de Ocaña y su provincia, se realiza todo el proceso de manera manual y se utiliza hoja de bijao y fogón de leña que le da un sabor único y especial.
+
+1.	Moler la masa
+El maíz blanco o amarillo se muele, dando lugar a una masa homogénea.
+2.	Amasado
+La masa que se ha molido se amasa con un poco de agua para crear una textura suave
+3.	Armado-Bola, trompo, platillo
+Cuando la masa está en su punto, se moldea para realizar una bola.
+Luego se empieza a dar forma de una especie de trompo, luego como de un platillo y luego más aplastada con un pico en el centro, para finalmente darle la forma más cercana a la arepa definitiva, golpeando y girando para dejar el grosor y tamaño deseado.
+4.	Asado
+La arepa moldeada se pone al fuego en un tiesto bien caliente. Luego se voltea, esta primera cara formará el pellejo característico de la arepa ocañera
 
 ## Preparación Casera
 
