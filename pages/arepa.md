@@ -43,7 +43,7 @@ La arepa moldeada se pone al fuego en un tiesto bien caliente. Luego se voltea, 
 
 ## Preparación Casera
 
-{% include feature/image.html objectid="assets/img/IN08-Preparacion_Casera (1).jpg;assets/img/IN08-Preparacion_Casera (2).jpg; assets/img/IN08-Preparacion_Casera (8).JPG" width="50" %}
+{% include feature/image.html objectid="assets/img/IN08-Preparacion_Casera-1.jpg;assets/img/IN08-Preparacion_Casera-2.jpg; assets/img/IN08-Preparacion_Casera-8.JPG" width="50" %}
 
 1.	Alistamiento de la masa
 
@@ -66,4 +66,13 @@ Cuando no se cuenta con tiesto y parrilla puede hacerse en un recipiente de tefl
 {% include feature/video.html objectid="assets/img/IN08-2-Preparacion_Casera_1.mp4" width="50"%}
 
 ## Preparación Industrial
+
+Debido a que en esta preparación se busca producir grandes cantidades de arepas en menor tiempo, se utilizan molinos de mayor capacidad para moler el maíz, también se utilizan aparatos que permiten moler la masa, haciendo que este paso sea más rápido.
+
+Para el armar de la arepa, se utilizan moldes y rodillos que facilitan la creación de la arepa en comparación con la manera tradicional, donde poco a poco se le va dando forma a la arepa. 
+Finalmente, el asado no es muy diferente a la preparación casera, solo que se utilizan planchas y parrillas de mayor tamaño que permiten la cocción de mayor cantidad de arepas al tiempo. 
+
+Es común que se compren las arepas sin relleno y en casa se rellenen o se acompañen con queso, huevo, mantequilla, carne o cualquier otro complemento.
+
+{% include feature/video.html objectid="assets/img/IN08-3-Preparación_Industrial_1.mp4" width="50"%}
 
