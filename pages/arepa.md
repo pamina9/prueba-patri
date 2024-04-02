@@ -23,19 +23,19 @@ En la preparación tradicional, que no ha desaparecido y que se hace principalme
 
 {% include feature/image.html objectid="assets/img/IN08-Tradicional-2.jpg;assets/img/IN08-Tradicional-4.jpg;assets/img/IN08-Tradicional-7.jpg" alt="Arepa Tradicional;Arepa Tradicional;Arepa Tradicional" %}
 
-1.	Moler la masa
+### 1.  Moler la masa
 
 El maíz blanco o amarillo se muele, dando lugar a una masa homogénea.
 
-2.	Amasado
+### 2.  Amasado
 
 La masa que se ha molido se amasa con un poco de agua para crear una textura suave.
 
-3.	Armado: Bola, trompo, platillo, disco
+### 3.  Armado: Bola, trompo, platillo, disco
 
 Cuando la masa está en su punto, se moldea para realizar una bola. Luego se le da forma de trompo, posteriormente con cada giro se torna en una una especie de platillo y a medida que se continúa el moldeado se forma una especie de disco con un pico en el centro, para finalmente darle la forma más cercana a la arepa definitiva, golpeando y girando para dejar el grosor y tamaño deseado.
 
-4.	Asado
+### 4. Asado
 
 La arepa moldeada se pone al fuego en un tiesto bien caliente. Luego se voltea, esta primera cara formará el pellejo característico de la arepa ocañera. En esta preparación se suele utilizar hojas de bijao y un artefacto para poner la arepa frente al fuego llamado "pararepa". Cuando el pellejo a salido y se pueden ver los colores cafés o dorados la arepa estará lista.
 
@@ -45,15 +45,15 @@ La arepa moldeada se pone al fuego en un tiesto bien caliente. Luego se voltea, 
 
 {% include feature/image.html objectid="assets/img/IN08-Preparacion_Casera-1.jpg;assets/img/IN08-Preparacion_Casera-2.jpg;assets/img/IN08-Preparacion_Casera-8.JPG"  alt="Arepa casera;Arepa casera;Arepa casera" %}
 
-1.	Alistamiento de la masa
+### 1.  Alistamiento de la masa
 
 Aunque todavía se encuentran familias que muelen el maíz, es común que se consuma harina de maíz precocida para arepas. Se echa la harina y agua tibia en partes iguales y se deja reposar por unos minutos.
 
-2.	Amasado
+### 2. Amasado
 
 La mezcla de agua y harina se amasa hasta que quede suave, se puede agregar más harina o más agua para ajustar la textura.
 
-3.	Moldeado
+### 3.  Moldeado
 
 Se moldea la arepa, primero se hace una bola, luego se le da forma de trompo o platillo, se aplasta poco a poco haciendo una especie de pico en el centro, finalmente se tiende en un plástico para ir dándole el grosor y forma de disco. El tamaño y grosor puede variar según el gusto, pero en comparación con otras arepas del país es delgada y de un diámetro mayor.
 
