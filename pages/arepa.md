@@ -21,7 +21,7 @@ El relleno más común es el queso, pero se acompaña de cualquier otro alimento
 ## Preparación Tradicional
 En la preparación tradicional, que no ha desaparecido y que se hace principalmente en zonas rurales de Ocaña y su provincia, se realiza todo el proceso de manera manual y se utiliza hoja de bijao y fogón de leña que le da un sabor único y especial.
 
-{% include feature/image.html objectid="assets/img/IN08-Tradicional (2).jpg;assets/img/IN08-Tradicional (4).jpg; assets/img/IN08-Tradicional (7).jpg" %}
+{% include feature/image.html objectid="assets/img/IN08-Tradicional (2).jpg;assets/img/IN08-Tradicional (4).jpg; assets/img/IN08-Tradicional (7).jpg" alt="Arepa Tradicional;Arepa Tradicional;Tradicional" %}
 
 1.	Moler la masa
 
