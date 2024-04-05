@@ -1,33 +1,10 @@
 objectid,parentid,filename,youtubeid,title,description,subject,interes,tipo_patrimonio,subgrupo_patrimonial,location,latitude,longitude,date_legal,date,acto_administrativo,creator,rights,source,identifier,type,format,folder_name
 im01,,IM1_complejo.JPG,,Complejo Histórico de la Gran Convención,"El complejo histórico de la Gran Convención está conformado por el templo, el claustro y la plazuela de San Francisco. En él se desarrolló la Gran Convención de 1828 donde se reunieron próceres de la independencia para reformar la constitución de 1821.
-ARQUITECTURA
+
 Es una edificación institucional religiosa colonial, de tapia pisada, cubiertas de madera y caña brava, con teja española y pisos de baldosa de barro cocido.
 Su construcción se le atribuye a don Francisco Fernández de Rojas, hijo del capitán Francisco Fernández de Contreras.
 
-HISTORIA:
-Entre 1583 y 1584 se inició la construcción del templo y se terminó en 1633, por fray Francisco Gaviria de la orden franciscana. 
-En 1759 la orden Franciscana quiso vender el terreno de la plazuela para financiar las obras de reconstrucción del claustro. La autoridad civil intervino logrando detener el negocio.
-En 1828 se realiza la Gran Convención
-En 1850 con la llegada de la Comisión Corográfica, Manuel Ancízar relata que el templo se encuentra en estado de abandono. El frente de la iglesia se deterioró gravemente debido al terremoto de Cúcuta de 1875, por lo que a comienzos del siglo XX se reemplazó la espadaña original por la torre que hoy en día tiene. Este cambio fue realizado por el padre Guillermo Fajardo Castañeda con los aportes económicos de la comunidad.
-En 1849 pasa a ser propiedad del municipio.
-En 1852 funcionó el colegio de la Democracia
-Entre 1889 y 1974 funciona el colegio La Presentación
-En 1927 se realizó una intervención en la plazuela con dineros de la gobernación de Norte de Santander por la celebración del primer centenario de la Gran Convención
-En 1938 el templo y el claustro se encontraban en un gran estado de deterioro, fue así, como la academia de historia, para esa época Centro de Historia, comenzó a realizar la gestión para lograr su restauración. 
-Hasta 1966 fue sede de la seccional de la Universidad Francisco de Paula Santander.
-En 1998 la dirección de monumentos Nacionales, el instituto Nacional de Vías y el Ministerio de Cultura entregan la edificación restaurada.
-El 9 de abril de 2003 se inauguró oficialmente el Museo de la Gran Convención.
-
-IMPORTANCIA HISTÓRICA DEL COMPLEJO
-
-El templo de San Francisco fue el lugar donde se desarrolló la Convención del 1828, fue escogido porque ya existían antecedentes similares de este tipo de reuniones en otros templos de las órdenes franciscanas y de San Agustín (Bogotá, Caracas, Angostura, Villa del Rosario)
-USOS
-En general el complejo histórico de San Francisco ha tenido como principal uso la educación.
-Inicialmente sirvió para el adoctrinamiento de los indígenas y escuela para niños hijos de españoles. También fue un centro de culto católico de blancos y mestizos.
-Funcionó el Colegio de la Democracia, el colegio de la presentación y la seccional de la Universidad Francisco de Paula Santander
-Finalmente, es la sede de 3 instituciones culturales: La biblioteca pública municipal ""Luis Eduardo Páez Courvel"", la Academia de Historia y el Museo de la Gran Convención.
-Durante la Colonia, la plazuela de San Francisco y de la Gran Convención se utilizaron para presentaciones teatrales. También se ha utilizado para concentraciones políticas y eventos culturales 
-",Historia; Política,Nacional,Arquitectura Religiosa,Inmueble,"Ocaña, Colombia",8.232277,-73.355183,1937,1584,Ley 75 del 22 de septiembre de 1937 (Lista del patrimonio Actualizada oct 2023),,,,,,compound_object,IM1_Complejo_Historico_Gran_Convencion
+El templo de San Francisco fue el lugar donde se desarrolló la Convención del 1828, pero en general el complejo histórico de San Francisco ha tenido como principal uso la educación.",Historia; Política,Nacional,Arquitectura Religiosa,Inmueble,"Ocaña, Colombia",8.232277,-73.355183,1937,1584,Ley 75 del 22 de septiembre de 1937 (Lista del patrimonio Actualizada oct 2023),,,,,,compound_object,IM1_Complejo_Historico_Gran_Convencion
 im01-01,im01,IM01-01-13.JPG,,Templo de San Francisco,El templo de San Francisco fue el lugar escogido para realizar la Gran convención de Ocaña.,Complejo histórico de la Gran Convención; Santander; Simón Bolívar;Religión,,,,,,,,,,,,,,,image/jpeg,1. Templo San Francisco
 im01-02,im01,IM01-02-3.mp4,,Claustro de San Francisco,"Actualmente en el claustro de San Francisco funciona la academia de historia y el museo de la Gran convención, también está la biblioteca pública y el lugar se destina para hacer diferentes actividades culturales y artísticas",Complejo histórico de la Gran Convención; Santander; Simón Bolívar;Religión,,,,,,,,,,,,,,,video/mp4,2. Claustro San Francisco
 im01-03,im01,IM01-03-Plazoleta.mp4,,Plazuela de San Francisco,"En la Plazoleta de San Francisco se pueden encontrar los 74 nombres de los asistentes a la Gran Convención en placas de hierro fijadas en el piso, incluyendo una placa Dorada con el nombre de Barbara Vicenta quien fue la única mujer asistente que se coló a las reuniones vestida de hombre. También se encuetran 4 palmeras  que simbolizan los 4 departamentos de los diputados que asistieron: Colombia, Venezuela, Panamá y Ecuador.",Complejo histórico de la Gran Convención; Santander; Simón Bolívar,,,,,,,,,,,,,,,video/mp4,3. Plazoleta Gran Convención
