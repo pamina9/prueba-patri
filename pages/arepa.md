@@ -57,15 +57,13 @@ La mezcla de agua y harina se amasa hasta que quede suave, se puede agregar más
 
 Se moldea la arepa, primero se hace una bola, luego se le da forma de trompo o platillo, se aplasta poco a poco haciendo una especie de pico en el centro, finalmente se tiende en un plástico para ir dándole el grosor y forma de disco. El tamaño y grosor puede variar según el gusto, pero en comparación con otras arepas del país es delgada y de un diámetro mayor.
 
-{% include feature/video.html objectid="assets/img/IN08-2-Preparacion_Casera_1.mp4" width="50"%}
-
-4.	Asado
+### 4.	Asado
 
 La arepa armada se pone en un tiesto bien caliente y se tapa, se deja por aproximadamente 4 minutos a fuego bajo. Luego se destapa para que se seque la humedad que queda en la parte superior, esta parte de arriba será el pellejo. Se le da la vuelta y se pone en la parrilla, para terminarla de asar, después de unos segundos empezará a inflarse, cuando no se infla se puede utilizar un cuchillo o un chuzo para despegar el pellejo.
 Finalmente empezará a tomar su color característico y estará lista para servir.
 Cuando no se cuenta con tiesto y parrilla puede hacerse en un recipiente de teflón, en este caso se engruda un poco de aceite al tiesto o sartén de teflón dejando que se ase por unos 15 segundos, hasta que se haya despegado y deslice fácilmente por la superficie, esta parte será el pellejo. Se le da la vuelta y se espera por unos minutos a que infle y termine de asarse. Igualmente, tomará su color característico y estará lista.
 
-{% include feature/video.html objectid="assets/img/IN08-2-Preparacion_Casera_1.mp4" alt="Arepa Casera;Arepa Casera;Arepa Casera" %}
+{% include feature/video.html objectid="assets/img/IN08-2-Preparacion_Casera_1.mp4" width="50"%}
 
 ## Preparación Industrial
 
