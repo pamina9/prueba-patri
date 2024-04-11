@@ -1,11 +1,11 @@
 display_name,stub,dropdown_parent
 Inicio,/
-Browse,/browse.html
+Navegar,/browse.html
 Temas,/subjects.html
 Mapa,/map.html
-Timeline,/timeline.html
+Linea de tiempo,/timeline.html
 Narración,,
 Desfile de Los Genitores,/desfile.html,Narración
 Arepa Ocañera,/arepa.html,Narración
 Datos,/data.html
-About,/about.html
+Acerca de,/about.html
