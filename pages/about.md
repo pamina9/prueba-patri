@@ -14,7 +14,7 @@ credits: true
 
 ## Acerca de esta colección
 
-Este sitio ha sido creado como uno de los productos del proyecto de grado: "Ocaña, entre magia y tradición", una colección digital que busca contribuir a la difusión de la información sobre el patrimonio cultural de Ocaña, Colombia. 
+Este sitio ha sido creado como uno de los productos del proyecto de grado: "Ocaña, entre magia y tradición. Colección digital del patrimonio cultural de Ocaña", con el fin de contribuir a la difusión de la información sobre el patrimonio cultural de Ocaña, Colombia. 
 El proyecto fue desarrollado como trabajo de grado de la Maestría en Humanidades Digitales de la Universidad de Los Andes. 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
