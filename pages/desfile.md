@@ -4,7 +4,7 @@ layout: about
 permalink: /desfile.html
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="objects/portada-des.jpg" %}
 
 {% include feature/nav-menu.html sections="Sobre el desfile;Cuadros y comparsas" %}
 
