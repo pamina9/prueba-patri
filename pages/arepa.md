@@ -4,7 +4,7 @@ layout: about
 permalink: /arepa.html
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="assets/img/portada_are.jpg" %}
 
 {% include feature/nav-menu.html sections="Arepa Ocañera;Preparación Tradicional;Preparación Casera;Preparación Industrial" %}
 
