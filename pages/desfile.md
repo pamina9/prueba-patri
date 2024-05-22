@@ -81,7 +81,7 @@ Las investigaciones han logrado determinar que hubo varios personajes con este m
 
 {% include feature/card.html header="Magia" text="La leyenda de Antón tiene varias versiones. Muchos aseguran que han escuchado el caballo a altas horas de la noche por la calle del Embudo" width="50" centered=true %}
 
-{% include feature/alert.html text="Elementos de la colección relacionados con [Antón García de Bonilla] (https://pamina9.github.io/prueba-patri/browse.html#ant%C3%B3n%20garc%C3%ADa%20de%20bonilla)" color="warning" align="left" width="50" %}
+{% include feature/button.html text="Antón García de Bonilla" link="https://collectionbuilder.github.io/](https://pamina9.github.io/prueba-patri/browse.html#ant%C3%B3n%20garc%C3%ADa%20de%20bonilla" color="success" centered=true %}
 
 - Comparsa: Aparición de la Virgen de Torcoroma - La Romería
 
