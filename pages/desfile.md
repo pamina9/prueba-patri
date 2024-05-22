@@ -172,8 +172,30 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 - Comparsa: La Llegada de Los Gitanos
 >Con esta comparsa se recuerda la visita de los gitanos, con sus coloridos vestuarios que resultaba en un acontecimiento cultural.
 
-{% include feature/image.html objectid="assets/img/des19-1.jpg;assets/img/des19-2.jpg;assets/img/des19-3.jpg" alt="Comparsa Los Gitanos;Comparsa Los Gitanos;Comparsa Los Gitanos" %}
+{% include feature/image.html objectid="assets/img/des19-1.jpg;assets/img/des19-2.JPG;assets/img/des19-3.jpg" alt="Comparsa Los Gitanos;Comparsa Los Gitanos;Comparsa Los Gitanos" %}
 
 {% include feature/alert.html text="*Recuerda esta comparsa a los grupos de gitanos que ya hace mucho tiempo solían venir a Ocaña creando con ello todo un acontecimiento cultural y recreativo. En este cuadro se observan las famosas carrosas gitanas y sus integrantes con las vestimentas propias de la cultura. Los gitanos constituyen una etnia que ha venido luchando paulatinamente por sus derechos en nuestro país. En Colombia esta historia supera apenas los 80 años provenientes de Rusia y Egipto, los gitanos llegaron para quedarse y echaron raíces, por eso sus carpas ahora son de ladrillo. *" color="info" align="left" width="50" %}
 
+- Comparsa: La Danza del Tigre
+>Esta no es una danza propiamente de la ciudad, pero sí de la región. La danza muestra una escena de caza de un tigre que asolaba la región. 
 
+{% include feature/image.html objectid="assets/img/des20-1.jpg;assets/img/des20-2.jpg;assets/img/des20-3.jpg" alt="Comparsa La Danza del Tigre;Comparsa La Danza del Tigre;Comparsa La Danza del Tigre" %}
+
+{% include feature/alert.html text="*La denominada fiesta del tigre tiene lugar en Otaré los días 5, 6 y 7 de enero, la danza recoge la historia de un tigre que asolaba la región hacia finales del siglo 19 lo cual dio lugar a que se formaran partidas de caza para acabar con la fiera, se cuentan entre los participantes algunos pintados con hollín que representan a los negros cazadores, en las 3 localidades con variantes coreográficas la danza narra la historia de un tigre que venía causando estragos, entre los personajes que se destacan está el tigre y los cazadores y los grupos de danzarines que rodean la escenificación de la caza, matanza y luego la exhibición del cuero, entre la partida de caza se observan negros, de acuerdo con la investigaciones realizadas en México sobre la danza de los Pecuales todo indica que esta expresión cultural tiene sus orígenes en la época prehispánica mexicana y que su dispersión se produjo desde ese país pasando por Centroamérica hasta llegar al oriente colombiano*" color="info" align="left" width="50" %}
+
+### Cuadro: Historia del Transporte
+
+- Comparsa: Bicicletas
+>En esta comparsa, de tiempos más modernos. El uso de la bicicleta se expandió en Ocaña, luego fueron reemplazadas por motocicletas y carros, pero este fue un medio de transporte de uso común.
+
+{% include feature/image.html objectid="assets/img/des18-1.jpg;assets/img/des18-2.jpg;assets/img/des18-3.jpg" alt="Comparsa Bicicletas;Comparsa Bicicletas;Comparsa Bicicletas" %}
+
+## Datos
+- El origen
+El desfile tiene como antecedente uno realizado en 1959, llamado desfile de Las Américas, donde un grupo de niñas salían con banderas y elementos representativos de cada país. En 1964 Alfonso Carrascal Claro convence a Carmito Quintero para que cambiara la dinámica del desfile, inspirado en uno que vio en Manizales llamado de Los Fundadores, La iniciativa fue secundada por el compositor y declamador Alfonso Carrascal Claro y entre otros, por don Margario Quintero Pacheco, don Antonio Patiño y don Carlos Torrado. La obra "Los Genitores", del Dr. Alejo Amaya, sirvió como fundamento histórico inicial del desfile.
+
+- Los participantes
+En la historia del desfile varios participantes han encarnado personajes por varios años. Se pueden encontrar como una tradición familiar participar en el desfile y se tiene registro de hasta cuatro generaciones.
+
+- Los espectadores
+Es común que año a año ocañeros y vicitantes disfruten del desfile, esta es una actividad que los niños disfrutan en compañía de sus familiares y que se va transmitiendo de generación en generación.
