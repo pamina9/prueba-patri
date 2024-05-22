@@ -99,9 +99,15 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 ### Cuadro: Independencia
 - Comparsa: Llegada de Bolívar a Ocaña
-
 >En esta primera comparsa del cuadro de la independencia, se representa la entrada triunfal de Bolívar a Ocaña, donde es coronado por un grupo de jovencitas, dentro de estas jovencitas se encuentra Nicolasa Ibáñez.
 
-{% include feature/image.html objectid="assets/img/des9-1.jpg;assets/img/des9-2.jpg;assets/img/des9-3.jpg" alt="Comparsa Llegada de Bolívar;Comparsa Llegada de Bolívar;Comparsa Llegada de Bolívar" %}
+{% include feature/image.html objectid="assets/img/des9-1.JPG;assets/img/des9-2.jpg;assets/img/des9-3.jpg" alt="Comparsa Llegada de Bolívar;Comparsa Llegada de Bolívar;Comparsa Llegada de Bolívar" %}
 
 {% include feature/alert.html text="*Después de la derrota sufrida en Puerto Cabello y la Guaira que sofocó la rebelión de los criollos venezolanos contra los españoles, Simón Bolivar viajó hasta Cartagena y se unió allí a las tropas republicanas de la Nueva Granada, comenzó así, la llamada campaña del Bajo Magdalena. Después de tomar Tenerife atacó las fuerzas españolas en Mompox, viajó hasta el Banco, Chiriguaná y Tamalameque y luego hasta Puerto Real sin que los realistas obstruyeran su vertiginosa marcha, de Puerto Real pasó a la ciudad de Ocaña, luego comenzó la denominada campaña Admirable desde Ocaña hasta Caracas. Una multitud abirragada y parlanchina se amontonaba en la punta de El Llano. los ocañeros habían preparado un apoteósico recibimiento que inició con las aclamaciones de la multitud y siguió con la presentación de una corona y palabras de bienvenida por la jovencita Bárbara María Vicenta Lemus y una comisión de preciosas señoritas ocañeras.* " color="info" align="left" width="50" %}
+
+- Comparsa: Reino del Terror
+>En esta comparsa se representa la muerte de Miguel Caravagio, quien es fusilado por el general Pablo Morillo.
+
+{% include feature/image.html objectid="assets/img/des10-1.JPG;assets/img/des10-2.jpg;assets/img/des10-3.jpg" alt="Comparsa Reino del Terror;Comparsa Reino del Terror;Comparsa Reino del Terror" %}
+
+{% include feature/alert.html text="*El 1 de abril de 1816 el general Pablo Morillo y su segundo Pascual Enrile entran a la ciudad iniciándose el Reinado del Terror para los patriotas y sus familias. Después de dejar una estela de sangre a su paso por toda la ribera del río Magdalena Morillo establece su cuartel general en Ocaña y desde allí comienza a reprimir a los patriotas ocañeros y de la región se confiscan bienes y se detiene a las personas que se presume están involucradas en la rebelión contra el rey Fernando VII en este proceso represivo son capturados y ajusticiados los patriotas Hipólito García, Juan Salvador Chacón y otras personas más el 9 de abril de 1816. El venezolano Miguel Caravagio es fusilado y su cabeza cortada y expuesta en la plaza mayor como escarmiento para los republicanos. Desde Ocaña Pablo Morillo expide un bando dirigido a los patriotas concediéndoles el indulto si entregaran las armas, se rinden y acatan el gobierno de monarca español.* " color="info" align="left" width="50" %}
