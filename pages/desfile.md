@@ -97,3 +97,11 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 {% include feature/alert.html text="*Esta comparsa destaca la elegancia de las mujeres y los hombres durante los primeros tiempos del virreinato de la Nueva Granada, quienes marchan luciendo atuendos de la época, se destaca nuevamente la belleza proverbial de la mujer ocañera, las damas llevan traje largo, mantillas, abanicos y peinetas; los caballeros, sombreros y capas. La comparsa es una muestra de cómo vestían las gentes de Ocaña durante la colonia, una vez que ya la ciudad había obtenido un activo desarrollo social, era una de las actividades más frecuentes.* " color="info" align="left" width="50" %}
 
+### Cuadro: Independencia
+- Comparsa: Llegada de Bolívar a Ocaña
+
+>En esta primera comparsa del cuadro de la independencia, se representa la entrada triunfal de Bolívar a Ocaña, donde es coronado por un grupo de jovencitas, dentro de estas jovencitas se encuentra Nicolasa Ibáñez.
+
+{% include feature/image.html objectid="assets/img/des9-1.jpg;assets/img/des9-2.jpg;assets/img/des9-3.jpg" alt="Comparsa Llegada de Bolívar;Comparsa Llegada de Bolívar;Comparsa Llegada de Bolívar" %}
+
+{% include feature/alert.html text="*Después de la derrota sufrida en Puerto Cabello y la Guaira que sofocó la rebelión de los criollos venezolanos contra los españoles, Simón Bolivar viajó hasta Cartagena y se unió allí a las tropas republicanas de la Nueva Granada, comenzó así, la llamada campaña del Bajo Magdalena. Después de tomar Tenerife atacó las fuerzas españolas en Mompox, viajó hasta el Banco, Chiriguaná y Tamalameque y luego hasta Puerto Real sin que los realistas obstruyeran su vertiginosa marcha, de Puerto Real pasó a la ciudad de Ocaña, luego comenzó la denominada campaña Admirable desde Ocaña hasta Caracas. Una multitud abirragada y parlanchina se amontonaba en la punta de El Llano. los ocañeros habían preparado un apoteósico recibimiento que inició con las aclamaciones de la multitud y siguió con la presentación de una corona y palabras de bienvenida por la jovencita Bárbara María Vicenta Lemus y una comisión de preciosas señoritas ocañeras.* " color="info" align="left" width="50" %}
