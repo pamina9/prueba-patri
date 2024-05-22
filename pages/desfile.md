@@ -81,6 +81,8 @@ Las investigaciones han logrado determinar que hubo varios personajes con este m
 
 {% include feature/card.html header="Magia" text="La leyenda de Antón tiene varias versiones. Muchos aseguran que han escuchado el caballo a altas horas de la noche por la calle del Embudo" width="50" centered=true %}
 
+{% include feature/alert.html text="Elementos de la colección relacionados con [Antón García de Bonilla] (https://pamina9.github.io/prueba-patri/browse.html#ant%C3%B3n%20garc%C3%ADa%20de%20bonilla)" color="warning" align="left" width="50" %}
+
 - Comparsa: Aparición de la Virgen de Torcoroma - La Romería
 
 >En esta comparsa muestra la historia de la virgen de Torcoroma, este hecho es contado a través de la familia a quién se les apareció y los sigue una romería que acompañó en procesión la traída de la virgen aparecida en una astilla de madera.
