@@ -12,7 +12,7 @@ permalink: /desfile.html
 
 El desfile de Los Genitores es la puesta en escena de los eventos más significativos de la historia de la ciudad de Ocaña. Inicia con la época prehispánica y finaliza con acontecimientos de mediados del siglo XX. Para el desarrollo de las comparsas se tomó como fundamento el libro "Los Genitores" del escritor ocañero Alejo Amaya.
 
-A medida que las investigaciones históricas van avanzando, se realizan precisiciones en las comparsas y cuadros del desfile incorporando pequeños cambios.
+A medida que las investigaciones históricas van avanzando, se realizan precisiones en las comparsas y cuadros del desfile incorporando pequeños cambios.
 
 El desfile hace parte del patrimonio inmaterial, es una tradición que revive cada año a través de más de 800 actores los personajes y situaciones que han hecho historia.
 
@@ -27,7 +27,7 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 {% include feature/alert.html text="*No hay muchas investigaciones arqueológicas, pero se conocen al menos dos culturas, la cultura Mosquito y cultura de las Urnas o cultura del Magdalena, que es de origen caribe. Existen petroglifos diseminados en toda la provincia de Ocaña. La denominación de Carates fue dada de manera genérica a una serie de pueblo dispersos en la rivera del Catatumbo y zona montañosa de Ocaña, quedando de ellos solo algunos en poblaciones como Aspacica, Teorama, Brotaré y parcialidades como Siruga, Simitarigua, Oropoma, Torcoroma, Burbura y Otras. Estos pueblos denominaron como Argutaca al lugar donde hoy se levanta la ciudad de Ocaña y al río Tejo, Tomarira. Usaban armas rudimentarias y vestuario hecho de algodón.*" color="info" align="left" width="50" %}
 
-{% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indigenas denominados 'Hacaritamas' habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." width="50" centered=true %}
+{% include feature/card.html header="Magia" text="No se ha encontrado evidencia de que indígenas denominados 'Hacaritamas' habitaran en la zona, Ocaña fue una ciudad fundada, no colonizada." width="50" centered=true %}
 
 {% include feature/image.html objectid="assets/img/des_1.jpg;assets/img/des_2.jpg;assets/img/des_3.jpg" alt="Comparsa Los Primeros pobladores;Comparsa Los Primeros pobladores;Comparsa Los Primeros pobladores" %}
 
@@ -35,7 +35,7 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 #### Cuadro: Fundación
 - Comparsa: Los Conquistadores
->Esta comparsa representa la fundación de Ocaña, este era un acto más de formalidad. El acto se llevó con 36 personas: Francisco Fernandes (el fundador), un cura y 34 soldados.
+>Esta comparsa representa la fundación de Ocaña, este era un acto más de formalidad. El acto se llevó con 36 personas: Francisco Fernández (el fundador), un cura y 34 soldados.
 
  {% include feature/alert.html text="*Encabeza la comparsa el fundador de Ocaña, Francisco Fernández de Contreras. El cabildo de Pamplona encomendó encontrar una ruta que comunicara rápidamente la Nueva Pamplona y el río grande de la Magdalena y los puertos de la costa norte. Después de expediciones exploratorias y de obtener los permisos de rigor en Santa Marta, siendo el gobernador de esta provincia, Pedro Fernández del Busto, el capitán fundó el puerto real primero sobre el Magdalena y luego la ciudad de Ocaña el 14 de diciembre de 1570. El vestuario y la utilería de esta comparsa se ha tomado de las representaciones iconográficas de la conquista y de la colonia.* " color="info" align="left" width="50" %}
 
@@ -63,7 +63,7 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 {% include feature/alert.html text="*Toda la elegancia y el donaire tradicional de la mujer ocañera se muestra en esta comparsa y quiere recordar, aquellos, los tiempos del virreinato de la nueva granada en que, no habiendo las posibilidades de utilizar las cómodas literas, debido a lo agreste de la topografía las personas se veían en la necesidad de transportarse en cabalgaduras para efectuar los penosos viajes por los abruptos caminos reales. Las bellas mujeres que acompañaron a los conquistadores en la colonización de nuestro territorio fueron piezas clave para el poblamiento definitivo y del desarrollo de la naciente ciudad. La belleza tradicional de la mujer ocañera aparece en las obras del siglo XVIII ciudad de hermoso mujeriego, nos dice Juan Flórez de Ocariz, en sus Genealogías del Nuevo Reino de Granada muchos autores e intelectuales nacionales han elogiado la belleza de nuestras mujeres les han dedicado hermosos poemas y textos en prosa.* " color="info" align="left" width="50" %}
 
 - Comparsa: La Leyenda de Leonelda Hernández
->Se sabe que exitió esta mujer mestiza, sin embargo, no hay ninguna documentacion que indique que fue rescatada por su tribu tras su captura acusada de bruería
+>Se sabe que existió esta mujer mestiza, sin embargo, no hay ninguna documentación que indique que fue rescatada por su tribu tras su captura acusada de brujería
 
 {% include feature/image.html objectid="assets/img/des5_1.jpg;assets/img/des5_2.jpg;assets/img/des5_3.jpg;assets/img/des5_4.jpg" alt="Comparsa Leonelda Hernández;Comparsa Leonelda Hernández;Comparsa Leonelda Hernández;Comparsa Leonelda Hernández" %}
 
@@ -71,3 +71,12 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
 {% include feature/card.html header="Magia" text="La historia del rescate es más bien una construcción, ya que no hay ninguna evidencia que indique que así sucediera" width="50" centered=true %}
 
+- Comparsa: Antón García de Bonilla
+>En esta comparsa se recrea al personaje que la tradición oral ha inmortalizado en una leyenda. Se sabe que existieron cuatro personajes con el mismo nombre. El primero de ellos vino con el fundador. El segundo, sería el de la leyenda quien se representa en la comparsa. El tercero no se ha encontrado información y el último murió en Aguachica en 1694. Se ve don Antón acompañado por sus sobrinas, ya que no se conoce descendencia.
+
+{% include feature/image.html objectid="assets/img/des5-1.jpg;assets/img/des6-2.jpg;assets/img/des6-3.jpg alt="Comparsa Antón García de Bonilla;Comparsa Antón García de Bonilla;Comparsa Antón García de Bonilla %}
+
+{% include feature/alert.html text="*Este importante encomendero vivió en Ocaña, dueño entre otros bienes de la hacienda de San Roque de Aguachica, quien contribuyó decididamente en la fundación de Río de Oro y al primer colegio de Ocaña. Narra la leyenda que en una de sus haciendas sus sobrinas cayeron víctimas de una terrible epidemia, desesperado tomó su cabalgadura y viajó hasta Ocaña, postrándose ante la modesta puerta de la capilla de Santa Rita la abogada de los imposibles. Allí le hizo una promesa solemne a la santa, a cambio de la salud de sus queridas niñas. Pasados los años, don Antón envejeció y murió sin haber cumplido su promesa, siendo condenado a vagar eternamente por aquellos lugares que frecuentó en vida, entre ellos la capilla de Santa Rita y la famosa calle del Embudo. Las investigaciones han logrado determinar que hubo varios personajes con este mismo nombre de Antón García de Bonilla, descendientes todos del primer Antón quien fue fundador de la ciudad de Ocaña. Antón García fue uno de los encomenderos más poderosos e influyentes que contribuyó al progreso de la región, su nombre como al de muchos otros hombres y mujeres de la historia también se ha convertido en leyenda. 
+* " color="info" align="left" width="50" %}
+
+{% include feature/card.html header="Magia" text="La leyenda de Antón en su misma es ficción, muchos aseguran escuchar el caballo por la calle del embudo." width="50" centered=true %}
