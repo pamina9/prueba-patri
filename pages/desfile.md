@@ -150,3 +150,14 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 {% include feature/alert.html text="*Desde esta época colonial comenzó a darse tímidamente el fenómeno de manumisión por parte de algunos propietarios de esclavos negros, en 1823 se prohibió el comercio de esclavos, aunque se abrió una brecha de disponer que solo podrían ser comercializados si iban a ser utilizados para servicios y no ser reexportados. La ley nuevamente volvió a señalar la prohibición en 1825. Finalmente se produjo la ley del 21 de mayo de 1851 por medio de la cual todos los esclavos quedarían libres a partir del 1ro de enero de 1852, ente el 6 y 22 de diciembre de 1851 se construye en Ocaña el único monumento en Colombia que recuerda la ley que dio libertad definitiva a los esclavos en todo el territorio nacional. Esta columna declarada como Bien de Interés Cultural de Carácter nacional está construida en ladrillo y calicanto está compuesta por 5 anillos que representan las 5 repúblicas libertadas por Simón Bolívar.*" color="info" align="left" width="50" %}
 
 {% include feature/card.html header="Magia" text="Al rededor de la columna se escuchan diferentes historias, como que era un lugar donde se castigaba a los esclavos. También se dice que la columna fue construida con esclavos que murieron y existe una creencia que se enterraron documentos en una urna de cristal que está en una de madera y esta a su vez en una metálica." width="50" centered=true %}
+
+### Cuadro: Tradiciones Populares 
+
+- Comparsa: Las Floristas
+>En esta comparsa participan niñas que desfilan, bailan y regalan flores a los asistentes. Representa a las jóvenes que comerciaban con flores y frutas.
+
+{% include feature/image.html objectid="assets/img/des16-1.jpg;assets/img/des16-2.jpg;assets/img/des16-3.jpg" alt="Comparsa Las Floristas;Comparsa Las Floristas;Comparsa Las Floristas" %}
+
+{% include feature/alert.html text="*Es una de las comparsas más colidas del desfile de Los Genitores, las floristas eran hermosas jovencitas que dedicaban su esfuerzo laboral a surtir de flores y de frutas a las gentes hacia finales del siglo XIX y las primeras décadas del XX, aquí se muestra todo el colorido y la frescura de los jardines locales y la belleza de nuestras jóvenes trabajadoras, rostros amables y gentiles y cuerpos espigados y cadenciosos se unen a la policromía floral del esta llamativa comparsa.*" color="info" align="left" width="50" %}
+
+
