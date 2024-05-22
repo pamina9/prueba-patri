@@ -12,11 +12,11 @@ permalink: /desfile.html
 
 El desfile de Los Genitores es la puesta en escena de los eventos más significativos de la historia de la ciudad de Ocaña. Inicia con la época prehispánica y finaliza con acontecimientos de mediados del siglo XX. Para el desarrollo de las comparsas se tomó como fundamento el libro "Los Genitores" del escritor ocañero Alejo Amaya.
 
-A medida que las investigaciones históricas van avanzando, se realizan precisiones en las comparsas y cuadros del desfile incorporando pequeños cambios.
+A medida que las investigaciones históricas van avanzando, se realizan precisiones en el guión y se incorporan cambios en las comparsas.
 
-El desfile hace parte del patrimonio inmaterial, es una tradición que revive cada año a través de más de 800 actores los personajes y situaciones que han hecho historia.
+El desfile hace parte del patrimonio inmaterial, es una tradición que se revive cada año a través de los más de 800 actores que encarnan los personajes que componene el desfile.
 
-El desfile está compuesto de varios cuadros, que a su vez se representan en comparsas. Las comparsas reviven hitos, personajes, situaciones a través de la actuación, la música y la danza.
+Las comparsas son agrupadas en varios cuadros. A través de música, danza y puestas en escena, se reviven hechos históricos de la ciudad. 
 
 ## Cuadros y comparsas
 
@@ -34,6 +34,7 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 {% include feature/image.html objectid="assets/img/des_4.jpg;assets/img/des_5.jpg;assets/img/des_6.jpg" alt="Comparsa Los Primeros pobladores;Comparsa Los Primeros pobladores;Comparsa Los Primeros pobladores" %}
 
 #### Cuadro: Fundación
+
 - Comparsa: Los Conquistadores
 >Esta comparsa representa la fundación de Ocaña, este era un acto más de formalidad. El acto se llevó con 36 personas: Francisco Fernández (el fundador), un cura y 34 soldados.
 
@@ -50,7 +51,6 @@ El desfile está compuesto de varios cuadros, que a su vez se representan en com
 
  {% include feature/alert.html text="*Eran soldados armados de Alabarda que inicialmente constituían un cuerpo de ejército y posteriormente daban guardia de honor o custodiaban a reyes, príncipes o nobles, durante los siglos XV y XVI tuvieron su época de esplendor como cuerpo de combate hasta la invención de las armas de fuego, momento en el que dejaron de existir como tropa, su misión era derribar a los jinetes y rematarlos en el suelo, también se mostraron eficaces en el combate cuerpo a cuerpo. En los siglos posteriores su función fue meramente protocolaria. En el desfile de los genitores Los Alabarderos constituye una comparsa amistosa que acompaña el recorrido para rememorar la fastuosidad de aquellos tiempos épicos.* " color="info" align="left" width="50" %}
  
-
 ### Cuadro: Colonia
 
 - Comparsa: Las Amazonas
@@ -98,6 +98,7 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 {% include feature/alert.html text="*Esta comparsa destaca la elegancia de las mujeres y los hombres durante los primeros tiempos del virreinato de la Nueva Granada, quienes marchan luciendo atuendos de la época, se destaca nuevamente la belleza proverbial de la mujer ocañera, las damas llevan traje largo, mantillas, abanicos y peinetas; los caballeros, sombreros y capas. La comparsa es una muestra de cómo vestían las gentes de Ocaña durante la colonia, una vez que ya la ciudad había obtenido un activo desarrollo social, era una de las actividades más frecuentes.* " color="info" align="left" width="50" %}
 
 ### Cuadro: Independencia
+
 - Comparsa: Llegada de Bolívar a Ocaña
 >En esta primera comparsa del cuadro de la independencia, se representa la entrada triunfal de Bolívar a Ocaña, donde es coronado por un grupo de jovencitas, dentro de estas jovencitas se encuentra Nicolasa Ibáñez.
 
@@ -134,6 +135,7 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 {% include feature/alert.html text="*El maestro Rozo Contreras fue comisionado por la cancillería para hacer un arreglo para banda sinfónica con base en reproducciones del papel periódico y de la historia de la música colombiana, la copia manuscrita que para el efecto suministró el ilustre historiador. A comienzo de 1955 el maestro Rozo Contreras dirigió su arreglo en la sala de ensayos de la banda nacional de Bogotá, explicadas las condiciones en que se había escuchado la obra en el campo de Boyacá cuando el maestro subió al podio y comenzó la ejecución de aquella música estelar de nuestra historia.*" color="info" align="left" width="50" %}
 
 ### Cuadro: República
+
 - Comparsa: La Gran Convención de Ocaña
 >En esta comparsa se recrean algunos personajes asistentes a este evento que se realizó en lo que hoy es el Complejo Histórico. Entre los asistentes a las reuniones se encuentra Barbara Vicenta Lemus que entró vestida de hombre para pasar desapercibida.
 
@@ -160,4 +162,11 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 
 {% include feature/alert.html text="*Es una de las comparsas más colidas del desfile de Los Genitores, las floristas eran hermosas jovencitas que dedicaban su esfuerzo laboral a surtir de flores y de frutas a las gentes hacia finales del siglo XIX y las primeras décadas del XX, aquí se muestra todo el colorido y la frescura de los jardines locales y la belleza de nuestras jóvenes trabajadoras, rostros amables y gentiles y cuerpos espigados y cadenciosos se unen a la policromía floral del esta llamativa comparsa.*" color="info" align="left" width="50" %}
 
+- Comparsa: Aguacateros y Lecheros
+>Esta es una colorida y divertida comparsa que muestra los campesinos de la región comerciando con agua, leche, frutas y verduras. Realizan el baile de La Machetilla y ofrecen a los participante sus productos
 
+{% include feature/image.html objectid="assets/img/des17-1.jpg;assets/img/des17-2.jpg;assets/img/des17-3.jpg;assets/img/des17-4.jpg" alt="Comparsa Aguateros y Lecheros;Comparsa Aguateros y Lecheros;Comparsa Aguateros y Lecheros;Comparsa Aguateros y Lecheros" %}
+
+{% include feature/alert.html text="*El baile de la machetilla es el baile popular de la zona rural de Ocaña. La comparsa revive la historia en que tanto el agua y como la leche eran llevados a la ciudad a lomo de mula por los campesinos de la región, las mujeres y los hombres dedicados a este oficio cumplían la tarea de la venta directa cargando sobre sus espaldas un recipiente metálico que a veces también sostenían sobre sus cabezas con un pretal. Los integrantes vestidos como campesinos desfilan con sus mulas cargadas de barriles de madera. No sobra recordar que el agua que se distribuía provenía del río Tejo. Esta actividad laboral informal se cumplió hasta bien entrada la década de 1930 y se fue extinguiendo por la construcción del acueducto.*" color="info" align="left" width="50" %}
+
+- Comparsa: La Llegada de Los Gitanos
