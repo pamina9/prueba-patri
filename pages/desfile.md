@@ -170,3 +170,10 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 {% include feature/alert.html text="*El baile de la machetilla es el baile popular de la zona rural de Ocaña. La comparsa revive la historia en que tanto el agua y como la leche eran llevados a la ciudad a lomo de mula por los campesinos de la región, las mujeres y los hombres dedicados a este oficio cumplían la tarea de la venta directa cargando sobre sus espaldas un recipiente metálico que a veces también sostenían sobre sus cabezas con un pretal. Los integrantes vestidos como campesinos desfilan con sus mulas cargadas de barriles de madera. No sobra recordar que el agua que se distribuía provenía del río Tejo. Esta actividad laboral informal se cumplió hasta bien entrada la década de 1930 y se fue extinguiendo por la construcción del acueducto.*" color="info" align="left" width="50" %}
 
 - Comparsa: La Llegada de Los Gitanos
+>Con esta comparsa se recuerda la visita de los gitanos, con sus coloridos vestuarios que resultaba en un acontecimiento cultural.
+
+{% include feature/image.html objectid="assets/img/des19-1.jpg;assets/img/des19-2.jpg;assets/img/des19-3.jpg" alt="Comparsa Los Gitanos;Comparsa Los Gitanos;Comparsa Los Gitanos" %}
+
+{% include feature/alert.html text="*Recuerda esta comparsa a los grupos de gitanos que ya hace mucho tiempo solían venir a Ocaña creando con ello todo un acontecimiento cultural y recreativo. En este cuadro se observan las famosas carrosas gitanas y sus integrantes con las vestimentas propias de la cultura. Los gitanos constituyen una etnia que ha venido luchando paulatinamente por sus derechos en nuestro país. En Colombia esta historia supera apenas los 80 años provenientes de Rusia y Egipto, los gitanos llegaron para quedarse y echaron raíces, por eso sus carpas ahora son de ladrillo. *" color="info" align="left" width="50" %}
+
+
