@@ -6,7 +6,7 @@ permalink: /desfile.html
 
 {% include feature/jumbotron.html objectid="objects/portada-des.jpg" %}
 
-{% include feature/nav-menu.html sections="Sobre el desfile;Cuadros y comparsas" %}
+{% include feature/nav-menu.html sections="Sobre el desfile;Cuadros y comparsas;Datos del desfile" %}
 
 ## Sobre el desfile
 
@@ -190,12 +190,52 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 
 {% include feature/image.html objectid="assets/img/des18-1.jpg;assets/img/des18-2.jpg;assets/img/des18-3.jpg" alt="Comparsa Bicicletas;Comparsa Bicicletas;Comparsa Bicicletas" %}
 
-## Datos
+## Datos del desfile
 - El origen
-El desfile tiene como antecedente uno realizado en 1959, llamado desfile de Las Américas, donde un grupo de niñas salían con banderas y elementos representativos de cada país. En 1964 Alfonso Carrascal Claro convence a Carmito Quintero para que cambiara la dinámica del desfile, inspirado en uno que vio en Manizales llamado de Los Fundadores, La iniciativa fue secundada por el compositor y declamador Alfonso Carrascal Claro y entre otros, por don Margario Quintero Pacheco, don Antonio Patiño y don Carlos Torrado. La obra "Los Genitores", del Dr. Alejo Amaya, sirvió como fundamento histórico inicial del desfile.
+>El desfile tiene como antecedente uno realizado en 1959, llamado desfile de Las Américas, donde un grupo de niñas salían con banderas y elementos representativos de cada país. En 1964 Alfonso Carrascal Claro convence a Carmito Quintero para que cambiara la dinámica del desfile, inspirado en uno que vio en Manizales llamado de Los Fundadores, La iniciativa fue secundada por el compositor y declamador Alfonso Carrascal Claro y entre otros, por don Margario Quintero Pacheco, don Antonio Patiño y don Carlos Torrado. La obra "Los Genitores", del Dr. Alejo Amaya, sirvió como fundamento histórico inicial del desfile.
 
 - Los participantes
-En la historia del desfile varios participantes han encarnado personajes por varios años. Se pueden encontrar como una tradición familiar participar en el desfile y se tiene registro de hasta cuatro generaciones.
+>En la historia del desfile varios participantes han encarnado personajes por varios años. Se pueden encontrar como una tradición familiar participar en el desfile y se tiene registro de hasta cuatro generaciones.
 
 - Los espectadores
-Es común que año a año ocañeros y vicitantes disfruten del desfile, esta es una actividad que los niños disfrutan en compañía de sus familiares y que se va transmitiendo de generación en generación.
+>Es común que año a año ocañeros y vicitantes disfruten del desfile, esta es una actividad que los niños disfrutan en compañía de sus familiares y que se va transmitiendo de generación en generación.
+
+- Variaciones
+>Cada año se realizan variaciones y puede incluir más o menos comparsas, así como el orden también puede variar.
+
+1. Cuadro Época Prehispánica
+- Comparsa: Nuestros primeros habitantes.
+2. Cuadro Fundación
+- Comparsas: Los conquistadores
+- Comparsa: Los Alabarderos
+3. Cuadro Colonia
+- Comparsa: Leonelda Hernádez
+- Comparsa: Antón García de Bonilla
+- Comparsa: Damas y caballeros de la colonia
+- Comparsa: Las Amazonas
+- Comparsa: Aparición de la Virgen de Torcoroma
+- Comparsa: La Romería
+4. Cuadro Independencia
+- Comparsa: La llegada de Bolívar a Ocaña
+- Comparsa: Las Ibáñez
+- Comparsa: Compañía Libes de Ocaña
+- Comparsa: Los Colorados
+- Comparsa: Contradanza la Vencedora
+- Comparsa: Contradanza La Libertadora
+5. Cuadro República
+- Comparsa: Gran Convención de Ocaña
+- Comparsa: Liberación de los esclavos
+- Comparsa: Hermanas de la Presentación
+6. Cuadro Tradiciones Populares
+- Comparsas: Aguateros y lecheros
+- Comparsa: Las Floristas
+- Comparsa: Los Gitanos
+- Comparsa: Danza del Tigre
+- Comparsa: Los Capuchones
+7. Cuadro Extrangeros en Ocaña
+- Comparsa: Sirios y Libaneses
+8. Cuadro Historia del Transporte
+- Comparsa: Los Arrieros
+- Comparsa: El cable aéreo
+- Comparsa: Inauguración carretera Ocaña-Gamarra
+- Comparsa: Aerolíneas Torocoroma
