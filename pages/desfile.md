@@ -256,4 +256,4 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 - Comparsa: Aerolíneas Torcoroma
 
 ## Colección
-Puedes ver los elementos de la colección que hacen parte del [desfile de los genitores](https://pamina9.github.io/prueba-patri/item.html?id=in02) Estas fueron las comparsas que salieron en el desfile de 2023.
+Puedes ver los elementos de la colección que hacen parte del [desfile de los genitores aquí.](https://pamina9.github.io/prueba-patri/item.html?id=in02) Estas fueron las comparsas que salieron en el desfile de 2023.
