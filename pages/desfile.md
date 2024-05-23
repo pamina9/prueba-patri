@@ -110,12 +110,16 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 {% include feature/alert.html text="*Después de la derrota sufrida en Puerto Cabello y la Guaira que sofocó la rebelión de los criollos venezolanos contra los españoles, Simón Bolivar viajó hasta Cartagena y se unió allí a las tropas republicanas de la Nueva Granada, comenzó así, la llamada campaña del Bajo Magdalena. Después de tomar Tenerife atacó las fuerzas españolas en Mompox, viajó hasta el Banco, Chiriguaná y Tamalameque y luego hasta Puerto Real sin que los realistas obstruyeran su vertiginosa marcha, de Puerto Real pasó a la ciudad de Ocaña, luego comenzó la denominada campaña Admirable desde Ocaña hasta Caracas. Una multitud abirragada y parlanchina se amontonaba en la punta de El Llano. los ocañeros habían preparado un apoteósico recibimiento que inició con las aclamaciones de la multitud y siguió con la presentación de una corona y palabras de bienvenida por la jovencita Bárbara María Vicenta Lemus y una comisión de preciosas señoritas ocañeras.* " color="info" align="left" width="50" %}
 
+{% include feature/modal.html button="Bienes relacionados con Bolívar" title="Simón Bolívar" text="[Busto de Simón Bolívar](https://pamina9.github.io/prueba-patri/item.html?id=mu09) * [Club Ocaña](https://pamina9.github.io/prueba-patri/item.html?id=im12)" color="primary" %}
+
 - Comparsa: Reino del Terror
 >En esta comparsa se representa la muerte de Miguel Caravagio, quien es fusilado por el general Pablo Morillo.
 
 {% include feature/image.html objectid="assets/img/des10-1.jpg;assets/img/des10-2.jpg;assets/img/des10-3.jpg" alt="Comparsa Reino del Terror;Comparsa Reino del Terror;Comparsa Reino del Terror" %}
 
 {% include feature/alert.html text="*El 1 de abril de 1816 el general Pablo Morillo y su segundo Pascual Enrile entran a la ciudad iniciándose el Reinado del Terror para los patriotas y sus familias. Después de dejar una estela de sangre a su paso por toda la ribera del río Magdalena Morillo establece su cuartel general en Ocaña y desde allí comienza a reprimir a los patriotas ocañeros y de la región se confiscan bienes y se detiene a las personas que se presume están involucradas en la rebelión contra el rey Fernando VII en este proceso represivo son capturados y ajusticiados los patriotas Hipólito García, Juan Salvador Chacón y otras personas más el 9 de abril de 1816. El venezolano Miguel Caravagio es fusilado y su cabeza cortada y expuesta en la plaza mayor como escarmiento para los republicanos. Desde Ocaña Pablo Morillo expide un bando dirigido a los patriotas concediéndoles el indulto si entregaran las armas, se rinden y acatan el gobierno de monarca español.* " color="info" align="left" width="50" %}
+
+{% include feature/button.html text="Casa donde se Hospedó Pablo Morillo" link="https://pamina9.github.io/prueba-patri/item.html?id=im26" color="success" centered=true %}
 
 - Comparsa: Los Colorados
 >Para esta comparsa los integrantes visten pantalones rojos representando a los colorados. Un comerciante les ofreció una pieza de paño de este color como estrategia para protegerse. Se realiza la puesta en escena del fusilamiento de Agustina Ferro, de quién no se tiene mayor información, más que su acta de defunción.
@@ -130,6 +134,8 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 {% include feature/image.html objectid="assets/img/des12-1.jpg;assets/img/des12-2.jpg;assets/img/des12-3.jpg" alt="Comparsa Las Ibañez;Comparsa Las Ibañez;Comparsa Las Ibañez" %}
 
 {% include feature/alert.html text="*Las hermosas Nicolasa y Bernardina Ibáñez fueron hijas de don Miguel Ibáñez y Vidal y doña Manuela Jacoba Arias. A la llegada de Simón Bolívar a Ocaña por primera vez en 1813 hace parte del grupo de jovencitas que coronan la frente del patriota con laureles, culminada la gesta de la batalla de Boyacá el 7 de agosto de 1819 corresponde a Bernardina, ya en Santafé, coronar a Bolívar en su entrada triunfal a la capital de la Nueva Granada. Doña Nicolasa se casó con el español Antonio José Caro de cuya unión nació el poeta hispanoamericano Jose Eusebio Caro; doña Bernardina se casó con Florentino González, de la descendencia de las Ibáñez proceden varios presidentes de Colombia como Antonio Caro y Alfonso López Michelsen y aún hoy se destacan en la vida nacional dirigentes políticos destacados de esta misma estirpe. La comparsa muestra las dos bellas y célebres mujeres Ocañeras. Nicolasa Ibáñez famosa por sus enfrentamientos políticos y su poder sobre los altos mandos del naciente gobierno mantuvo un romance con el general Francisco de Paula Santander.*" color="info" align="left" width="50" %}
+
+{% include feature/button.html text="José Eusebio Caro" link="https://pamina9.github.io/prueba-patri/browse.html#caro" color="success" centered=true %}
 
 - Comparsa: Contradanza La Vencedora – Danza de la época
 >En esta comparsa se puede ver un grupo de parejas que realizan una danza al ritmo de la contradanza La Vencedora, utilizan trajes elegantes de la época. Otra pieza musical que se conserva es la Libertadora.
@@ -148,6 +154,8 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 {% include feature/alert.html text="*Este cuadro representa a los convencionistas participantes en la constituyente reunida en Ocaña en 1828. Con el propósito de reformar la constitución expedida en Cúcuta en 1821. Pese al fracaso de este certamen político, los ocañeros y colombianos guardan un respetuoso recuento del acontecimiento que reunió a 74 de los 108 diputados de las provincias de Venezuela, Colombia, Panamá y Ecuador. Como consecuencia del fracaso de la Gran Convención de Ocaña, Bolívar asume la dictadura dictando una serie de medidas económicas de emergencia. Santander es enviado como embajador a los Estados Unidos, pero lo más grave del fracaso de la Convención fue el intento de asesinato contra Bolívar el 25 de septiembre de 1828 y luego la disolución total de la Gran Colombia que se produce con la muerte del libertador en 1830.
 Ocaña fue escogida por las condiciones de aislamiento y seguridad para el trabajo de los diputados y también porque permitía que no hubiese influencias directas de los partidarios armados de los simpatizantes políticos del mando de Santander y de Bolívar, además la cercanía con Venezuela garantizaba la asistencia de sus representantes. El templo de San Francisco fue escogido debido a que ya existían antecedentes similares de este tipo en reuniones en otros templos de ordenes franciscanas y de San Agustín.*" color="info" align="left" width="50" %}
 
+{% include feature/button.html text="Complejo Histórico de la Gran Convención" link="https://pamina9.github.io/prueba-patri/item.html?id=im01" color="success" centered=true %}
+
 - Comparsa: La Liberación de los Esclavos
 >La comparsa representa la construcción de la Columna a la Libertad de Los Esclavos, que se levantó en honor a ley que abolió la esclavitud. Se representa la alegría y el baile de Agustín Nuñez, gobernador de la provincia, con la esclava Nicanora Rincón.
 
@@ -156,6 +164,8 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 {% include feature/alert.html text="*Desde esta época colonial comenzó a darse tímidamente el fenómeno de manumisión por parte de algunos propietarios de esclavos negros, en 1823 se prohibió el comercio de esclavos, aunque se abrió una brecha de disponer que solo podrían ser comercializados si iban a ser utilizados para servicios y no ser reexportados. La ley nuevamente volvió a señalar la prohibición en 1825. Finalmente se produjo la ley del 21 de mayo de 1851 por medio de la cual todos los esclavos quedarían libres a partir del 1ro de enero de 1852, ente el 6 y 22 de diciembre de 1851 se construye en Ocaña el único monumento en Colombia que recuerda la ley que dio libertad definitiva a los esclavos en todo el territorio nacional. Esta columna declarada como Bien de Interés Cultural de Carácter nacional está construida en ladrillo y calicanto está compuesta por 5 anillos que representan las 5 repúblicas libertadas por Simón Bolívar.*" color="info" align="left" width="50" %}
 
 {% include feature/card.html header="Magia" text="Al rededor de la columna se escuchan diferentes historias, como que era un lugar donde se castigaba a los esclavos. También se dice que la columna fue construida con esclavos que murieron y existe una creencia que se enterraron documentos en una urna de cristal que está en una de madera y esta a su vez en una metálica." width="50" centered=true %}
+
+{% include feature/button.html text="Columna a la Libertad de Los Esclavos" link="https://pamina9.github.io/prueba-patri/item.html?id=mu01" color="success" centered=true %}
 
 ### Cuadro: Tradiciones Populares 
 
@@ -172,6 +182,8 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 {% include feature/image.html objectid="assets/img/des17-1.jpg;assets/img/des17-2.jpg;assets/img/des17-3.jpg;assets/img/des17-4.jpg" alt="Comparsa Aguateros y Lecheros;Comparsa Aguateros y Lecheros;Comparsa Aguateros y Lecheros;Comparsa Aguateros y Lecheros" %}
 
 {% include feature/alert.html text="*El baile de la machetilla es el baile popular de la zona rural de Ocaña. La comparsa revive la historia en que tanto el agua y como la leche eran llevados a la ciudad a lomo de mula por los campesinos de la región, las mujeres y los hombres dedicados a este oficio cumplían la tarea de la venta directa cargando sobre sus espaldas un recipiente metálico que a veces también sostenían sobre sus cabezas con un pretal. Los integrantes vestidos como campesinos desfilan con sus mulas cargadas de barriles de madera. No sobra recordar que el agua que se distribuía provenía del río Tejo. Esta actividad laboral informal se cumplió hasta bien entrada la década de 1930 y se fue extinguiendo por la construcción del acueducto.*" color="info" align="left" width="50" %}
+
+{% include feature/button.html text="Molino" link="https://pamina9.github.io/prueba-patri/item.html?id=im08" color="success" centered=true %}
 
 - Comparsa: La Llegada de Los Gitanos
 >Con esta comparsa se recuerda la visita de los gitanos, con sus coloridos vestuarios que resultaba en un acontecimiento cultural.
