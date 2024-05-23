@@ -22,8 +22,8 @@ Las comparsas son agrupadas en varios cuadros. A través de música, danza y pue
 
 #### Cuadro: Época Prehispánica
 
-- Comparsa: Los Primeros Pobladores
->El cuadro representa las culturas indígenas existentes en la zona antes de la llegada de los fundadores. Existen restos arqueológicos que indican que existieron poblaciones prehispánicas, aunque no hay muchas investigaciones, se han encontrado restos de arqueológicos, algunos de los cuales se pueden encontrar en el museo de la Ciudad de Ocaña "Antón García de Bonilla".
+- Comparsa: Los Primeros Pobladores.
+>El cuadro representa las culturas indígenas existentes en la zona antes de la llegada de los fundadores. Existen restos arqueológicos que indican que existieron poblaciones prehispánicas, aunque no hay muchas investigaciones, se han encontrado restos arqueológicos, algunos de los cuales se pueden encontrar en el museo de la Ciudad de Ocaña "Antón García de Bonilla".
 
 {% include feature/alert.html text="*No hay muchas investigaciones arqueológicas, pero se conocen al menos dos culturas, la cultura Mosquito y cultura de las Urnas o cultura del Magdalena, que es de origen caribe. Existen petroglifos diseminados en toda la provincia de Ocaña. La denominación de Carates fue dada de manera genérica a una serie de pueblo dispersos en la rivera del Catatumbo y zona montañosa de Ocaña, quedando de ellos solo algunos en poblaciones como Aspacica, Teorama, Brotaré y parcialidades como Siruga, Simitarigua, Oropoma, Torcoroma, Burbura y Otras. Estos pueblos denominaron como Argutaca al lugar donde hoy se levanta la ciudad de Ocaña y al río Tejo, Tomarira. Usaban armas rudimentarias y vestuario hecho de algodón.*" color="info" align="left" width="50" %}
 
@@ -35,14 +35,14 @@ Las comparsas son agrupadas en varios cuadros. A través de música, danza y pue
 
 #### Cuadro: Fundación
 
-- Comparsa: Los Conquistadores
+- Comparsa: Los Conquistadores.
 >Esta comparsa representa la fundación de Ocaña, este era un acto más de formalidad. El acto se llevó con 36 personas: Francisco Fernández (el fundador), un cura y 34 soldados.
 
  {% include feature/alert.html text="*Encabeza la comparsa el fundador de Ocaña, Francisco Fernández de Contreras. El cabildo de Pamplona encomendó encontrar una ruta que comunicara rápidamente la Nueva Pamplona y el río grande de la Magdalena y los puertos de la costa norte. Después de expediciones exploratorias y de obtener los permisos de rigor en Santa Marta, siendo el gobernador de esta provincia, Pedro Fernández del Busto, el capitán fundó el puerto real primero sobre el Magdalena y luego la ciudad de Ocaña el 14 de diciembre de 1570. El vestuario y la utilería de esta comparsa se ha tomado de las representaciones iconográficas de la conquista y de la colonia.* " color="info" align="left" width="50" %}
 
  {% include feature/video.html objectid="https://youtu.be/P6eqNxKAVUs" width="50" caption="Los Conquistadores" %}
 
- - Comparsa: Los Alabarderos
+ - Comparsa: Los Alabarderos.
 >Aunque en el momento de la fundación ya existían las armas de fuego y los indígenas las conocían se incluye esta comparsa donde se puede ver la vestimenta y las alabardas.
 
 {% include feature/image.html objectid="assets/img/des3_1.jpg;assets/img/des3_2.jpg;assets/img/des3_3.jpg" alt="Comparsa Los Alabarderos;Comparsa Los Alabarderos;Comparsa Los Alabarderos" %}
@@ -53,7 +53,7 @@ Las comparsas son agrupadas en varios cuadros. A través de música, danza y pue
  
 ### Cuadro: Colonia
 
-- Comparsa: Las Amazonas
+- Comparsa: Las Amazonas.
 >Los caballos eran un medio de transporte para las clases altas, no todas las mujeres tenían acceso a transportarse con este medio
 
 {% include feature/image.html objectid="assets/img/des4_1.jpg;assets/img/des4_2.jpg;assets/img/des4_3.jpg;assets/img/des4_4.jpg" alt="Comparsa Las Amazonas;Comparsa Las Amazonas;Comparsa Las Amazonas;Comparsa Las Amazonas" %}
@@ -62,7 +62,7 @@ Las comparsas son agrupadas en varios cuadros. A través de música, danza y pue
 
 {% include feature/alert.html text="*Toda la elegancia y el donaire tradicional de la mujer ocañera se muestra en esta comparsa y quiere recordar, aquellos, los tiempos del virreinato de la nueva granada en que, no habiendo las posibilidades de utilizar las cómodas literas, debido a lo agreste de la topografía las personas se veían en la necesidad de transportarse en cabalgaduras para efectuar los penosos viajes por los abruptos caminos reales. Las bellas mujeres que acompañaron a los conquistadores en la colonización de nuestro territorio fueron piezas clave para el poblamiento definitivo y del desarrollo de la naciente ciudad. La belleza tradicional de la mujer ocañera aparece en las obras del siglo XVIII ciudad de hermoso mujeriego, nos dice Juan Flórez de Ocariz, en sus Genealogías del Nuevo Reino de Granada muchos autores e intelectuales nacionales han elogiado la belleza de nuestras mujeres les han dedicado hermosos poemas y textos en prosa.* " color="info" align="left" width="50" %}
 
-- Comparsa: La Leyenda de Leonelda Hernández
+- Comparsa: La Leyenda de Leonelda Hernández.
 >Se sabe que existió esta mujer mestiza, sin embargo, no hay ninguna documentación que indique que fue rescatada por su tribu tras su captura acusada de brujería
 
 {% include feature/image.html objectid="assets/img/des5_1.jpg;assets/img/des5_2.jpg;assets/img/des5_3.jpg;assets/img/des5_4.jpg" alt="Comparsa Leonelda Hernández;Comparsa Leonelda Hernández;Comparsa Leonelda Hernández;Comparsa Leonelda Hernández" %}
@@ -71,7 +71,7 @@ Las comparsas son agrupadas en varios cuadros. A través de música, danza y pue
 
 {% include feature/card.html header="Magia" text="La historia del rescate es más bien una construcción, ya que no hay ninguna evidencia que indique que así sucediera" width="50" centered=true %}
 
-- Comparsa: Antón García de Bonilla
+- Comparsa: Antón García de Bonilla.
 >En esta comparsa se recrea al personaje que la tradición oral ha inmortalizado en una leyenda. Se sabe que existieron cuatro personajes con el mismo nombre. El primero de ellos vino con el fundador. El segundo, sería el de la leyenda quien se representa en la comparsa. El tercero no se ha encontrado información y el último murió en Aguachica en 1694. Se ve don Antón acompañado por sus sobrinas, ya que no se conoce descendencia.
 
 {% include feature/image.html objectid="assets/img/des6-1.jpg;assets/img/des6-2.jpg;assets/img/des6-3.jpg" alt="Comparsa Antón García de Bonilla;Comparsa Antón García de Bonilla;Comparsa Antón García de Bonilla" %}
@@ -83,7 +83,7 @@ Las investigaciones han logrado determinar que hubo varios personajes con este m
 
 {% include feature/button.html text="Antón García de Bonilla" link="https://pamina9.github.io/prueba-patri/browse.html#ant%C3%B3n%20garc%C3%ADa%20de%20bonilla" color="success" centered=true %}
 
-- Comparsa: Aparición de la Virgen de Torcoroma
+- Comparsa: Aparición de la Virgen de Torcoroma.
 >En esta comparsa muestra la historia de la virgen de Torcoroma, este hecho es contado a través de la familia a quién se les apareció y los sigue una romería que acompañó en procesión la traída de la virgen aparecida en una astilla de madera.
 
 {% include feature/image.html objectid="assets/img/des7-1.jpg;assets/img/des7-2.jpg;assets/img/des7-3.jpg;assets/img/des7-4.jpg" alt="Comparsa Virgen Torcoroma;Comparsa Virgen Torcoroma;Comparsa Virgen Torcoroma;Comparsa Virgen Torcoroma" %}
@@ -93,7 +93,7 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 {% include feature/modal.html button="Bienes relacionados con la Virgen de Torcoroma" title="Virgen de Torcoroma" text="[Santuario de las Gracias de la Virgen de Torcoroma](https://pamina9.github.io/prueba-patri/item.html?id=im02) | [Manifestación Religiosa de la Virgen de Torcoroma](https://pamina9.github.io/prueba-patri/item.html?id=in04)|[Capilla de la Virgen de Torcoroma](https://pamina9.github.io/prueba-patri/item.html?id=im06)" color="primary" %}
 
-- Comparsa: Damas y Caballeros de la Colonia
+- Comparsa: Damas y Caballeros de la Colonia.
 >En esta comparsa se representa los vistosos y elegantes atuendos de la época de la colonia.
 
 {% include feature/image.html objectid="assets/img/des8-1.jpg;assets/img/des8-2.jpg;assets/img/des8-3.jpg;assets/img/des8-4.jpg" alt="Comparsa Damas y Caballeros de la Colonia;Comparsa Damas y Caballeros de la Colonia;Comparsa Damas y Caballeros de la Colonia;Comparsa Damas y Caballeros de la Colonia" %}
@@ -102,7 +102,7 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 ### Cuadro: Independencia
 
-- Comparsa: Llegada de Bolívar a Ocaña
+- Comparsa: Llegada de Bolívar a Ocaña.
 >En esta primera comparsa del cuadro de la independencia, se representa la entrada triunfal de Bolívar a Ocaña, donde es coronado por un grupo de jovencitas, dentro de estas jovencitas se encuentra Nicolasa Ibáñez.
 
 {% include feature/image.html objectid="assets/img/des9-1.JPG;assets/img/des9-2.jpg;assets/img/des9-3.jpg" alt="Comparsa Llegada de Bolívar;Comparsa Llegada de Bolívar;Comparsa Llegada de Bolívar" %}
@@ -111,7 +111,7 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 {% include feature/modal.html button="Bienes relacionados con Bolívar" title="Simón Bolívar" text="[Busto de Simón Bolívar](https://pamina9.github.io/prueba-patri/item.html?id=mu09)  [Club Ocaña](https://pamina9.github.io/prueba-patri/item.html?id=im12)" color="primary" %}
 
-- Comparsa: Reino del Terror
+- Comparsa: Reino del Terror.
 >En esta comparsa se representa la muerte de Miguel Caravagio, quien es fusilado por el general Pablo Morillo.
 
 {% include feature/image.html objectid="assets/img/des10-1.jpg;assets/img/des10-2.jpg;assets/img/des10-3.jpg" alt="Comparsa Reino del Terror;Comparsa Reino del Terror;Comparsa Reino del Terror" %}
@@ -120,14 +120,14 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 {% include feature/button.html text="Casa donde se Hospedó Pablo Morillo" link="https://pamina9.github.io/prueba-patri/item.html?id=im26" color="success" centered=true %}
 
-- Comparsa: Los Colorados
+- Comparsa: Los Colorados.
 >Para esta comparsa los integrantes visten pantalones rojos representando a los colorados. Un comerciante les ofreció una pieza de paño de este color como estrategia para protegerse. Se realiza la puesta en escena del fusilamiento de Agustina Ferro, de quién no se tiene mayor información, más que su acta de defunción.
 
 {% include feature/image.html objectid="assets/img/des11-1.jpg;assets/img/des11-2.jpg;assets/img/des11-3.jpg" alt="Comparsa Los Colorados;Comparsa Los Colorados;Comparsa Los Colorados" %}
 
 {% include feature/alert.html text="*La Guerrilla realista que operó entre 1818 y 1822 causando grandes estragos en las filas patriotas. Doña Agustina Ferro, dama ocañera simpatizante de la causa republicana favoreció la fuga del coronel patriota Fernando Figueredo quien se había refugiado en su casa. Sabedor Javier Álvarez de la fuga que se le facilitó, ordenó seguirle en aferro proceso verbal y se le condenó a muerte el 20 de enero de 1820, a las 3 de la tarde el capitán Barrera de orden de Javier Álvarez ordena al verdugo que anuncie a la prisionera que a las 4 de la tarde sería fusilada. A las 3 y media las campanas de la iglesia tocan los nobles anunciando su sacrificio, los guardas tocan sus clarines y tambores, el sacerdote practica los últimos auxilios espirituales y en presencia de numeroso público en la plaza municipal se ordena pasar a la acusada al banco donde también había sido fusilado el capitán ocañero Hipólito García y atadas las manos desde atrás el oficial Barrera lee en alto la célebre sentencia del consejo militar. La acusada pide por favor no sean vendados sus ojos y el oficial accede. Pocos minutos después los esbirros desgarran sus fusiles y consuman el más atroz de los asesinatos. Doña agustina Ferro representa el valor y la hidalguía de la mujer ocañera comprometida con la causa de la libertad, en esta comparsa los integrantes de los colorados visten pantalón rojo, razón de su denominación y llevan como armas machetes y fusiles.*" color="info" align="left" width="50" %}
 
-- Comparsa: Las Ibáñez
+- Comparsa: Las Ibáñez.
 >En esta comparsa se representa a las hermanas Nicolasa y Bernardina Ibáñez, quienes son la madre y tía del poeta y político ocañero Jose Eusebio Caro.
 
 {% include feature/image.html objectid="assets/img/des12-1.jpg;assets/img/des12-2.jpg;assets/img/des12-3.jpg" alt="Comparsa Las Ibañez;Comparsa Las Ibañez;Comparsa Las Ibañez" %}
@@ -136,7 +136,7 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 {% include feature/button.html text="José Eusebio Caro" link="https://pamina9.github.io/prueba-patri/browse.html#caro" color="success" centered=true %}
 
-- Comparsa: Contradanza La Vencedora – Danza de la época
+- Comparsa: Contradanza La Vencedora (Danza de la época).
 >En esta comparsa se puede ver un grupo de parejas que realizan una danza al ritmo de la contradanza La Vencedora, utilizan trajes elegantes de la época. Otra pieza musical que se conserva es la Libertadora.
 
 {% include feature/image.html objectid="assets/img/des13-1.jpg;assets/img/des13-2.jpg;assets/img/des13-3.jpg;assets/img/des13-4.jpg" alt="Comparsa Contradanza;Comparsa Contradanza;Comparsa Contradanza;Comparsa Contradanza" %}
@@ -145,7 +145,7 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 ### Cuadro: República
 
-- Comparsa: La Gran Convención de Ocaña
+- Comparsa: La Gran Convención de Ocaña.
 >En esta comparsa se recrean algunos personajes asistentes a este evento que se realizó en lo que hoy es el Complejo Histórico. Entre los asistentes a las reuniones se encuentra Barbara Vicenta Lemus que entró vestida de hombre para pasar desapercibida.
 
 {% include feature/image.html objectid="assets/img/des14-1.jpg;assets/img/des14-2.jpg" alt="Comparsa La Convención de Ocaña;Comparsa la Convención de Ocaña Contradanza" %}
@@ -155,7 +155,7 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 
 {% include feature/button.html text="Complejo Histórico de la Gran Convención" link="https://pamina9.github.io/prueba-patri/item.html?id=im01" color="success" centered=true %}
 
-- Comparsa: La Liberación de los Esclavos
+- Comparsa: La Liberación de los Esclavos.
 >La comparsa representa la construcción de la Columna a la Libertad de Los Esclavos, que se levantó en honor a ley que abolió la esclavitud. Se representa la alegría y el baile de Agustín Nuñez, gobernador de la provincia, con la esclava Nicanora Rincón.
 
 {% include feature/image.html objectid="assets/img/des15-1.jpg;assets/img/des15-2.jpg;assets/img/des15-3.jpg;assets/img/des15-4.jpg" alt="Comparsa Libertad de Los Esclavos;Comparsa Libertad de Los Esclavos;Comparsa Libertad de Los Esclavos;Comparsa Libertad de Los Esclavos" %}
@@ -168,14 +168,14 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 
 ### Cuadro: Tradiciones Populares 
 
-- Comparsa: Las Floristas
+- Comparsa: Las Floristas.
 >En esta comparsa participan niñas que desfilan, bailan y regalan flores a los asistentes. Representa a las jóvenes que comerciaban con flores y frutas.
 
 {% include feature/image.html objectid="assets/img/des16-1.jpg;assets/img/des16-2.jpg;assets/img/des16-3.jpg" alt="Comparsa Las Floristas;Comparsa Las Floristas;Comparsa Las Floristas" %}
 
 {% include feature/alert.html text="*Es una de las comparsas más colidas del desfile de Los Genitores, las floristas eran hermosas jovencitas que dedicaban su esfuerzo laboral a surtir de flores y de frutas a las gentes hacia finales del siglo XIX y las primeras décadas del XX, aquí se muestra todo el colorido y la frescura de los jardines locales y la belleza de nuestras jóvenes trabajadoras, rostros amables y gentiles y cuerpos espigados y cadenciosos se unen a la policromía floral del esta llamativa comparsa.*" color="info" align="left" width="50" %}
 
-- Comparsa: Aguacateros y Lecheros
+- Comparsa: Aguacateros y Lecheros.
 >Esta es una colorida y divertida comparsa que muestra los campesinos de la región comerciando con agua, leche, frutas y verduras. Realizan el baile de La Machetilla y ofrecen a los participante sus productos
 
 {% include feature/image.html objectid="assets/img/des17-1.jpg;assets/img/des17-2.jpg;assets/img/des17-3.jpg;assets/img/des17-4.jpg" alt="Comparsa Aguateros y Lecheros;Comparsa Aguateros y Lecheros;Comparsa Aguateros y Lecheros;Comparsa Aguateros y Lecheros" %}
@@ -184,14 +184,14 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 
 {% include feature/button.html text="Molino" link="https://pamina9.github.io/prueba-patri/item.html?id=im08" color="success" centered=true %}
 
-- Comparsa: La Llegada de Los Gitanos
+- Comparsa: La Llegada de Los Gitanos.
 >Con esta comparsa se recuerda la visita de los gitanos, con sus coloridos vestuarios que resultaba en un acontecimiento cultural.
 
 {% include feature/image.html objectid="assets/img/des19-1.jpg;assets/img/des19-2.JPG;assets/img/des19-3.jpg" alt="Comparsa Los Gitanos;Comparsa Los Gitanos;Comparsa Los Gitanos" %}
 
 {% include feature/alert.html text="*Recuerda esta comparsa a los grupos de gitanos que ya hace mucho tiempo solían venir a Ocaña creando con ello todo un acontecimiento cultural y recreativo. En este cuadro se observan las famosas carrosas gitanas y sus integrantes con las vestimentas propias de la cultura. Los gitanos constituyen una etnia que ha venido luchando paulatinamente por sus derechos en nuestro país. En Colombia esta historia supera apenas los 80 años provenientes de Rusia y Egipto, los gitanos llegaron para quedarse y echaron raíces, por eso sus carpas ahora son de ladrillo. *" color="info" align="left" width="50" %}
 
-- Comparsa: La Danza del Tigre
+- Comparsa: La Danza del Tigre.
 >Esta no es una danza propiamente de la ciudad, pero sí de la región. La danza muestra una escena de caza de un tigre que asolaba la región. 
 
 {% include feature/image.html objectid="assets/img/des20-1.jpg;assets/img/des20-2.jpg;assets/img/des20-3.jpg" alt="Comparsa La Danza del Tigre;Comparsa La Danza del Tigre;Comparsa La Danza del Tigre" %}
@@ -200,7 +200,7 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 
 ### Cuadro: Historia del Transporte
 
-- Comparsa: Bicicletas
+- Comparsa: Bicicletas.
 >En esta comparsa, de tiempos más modernos. El uso de la bicicleta se expandió en Ocaña, luego fueron reemplazadas por motocicletas y carros, pero este fue un medio de transporte de uso común.
 
 {% include feature/image.html objectid="assets/img/des18-1.jpg;assets/img/des18-2.jpg;assets/img/des18-3.jpg" alt="Comparsa Bicicletas;Comparsa Bicicletas;Comparsa Bicicletas" %}
