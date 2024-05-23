@@ -14,7 +14,7 @@ El desfile de Los Genitores es la puesta en escena de los eventos más significa
 
 A medida que las investigaciones históricas van avanzando, se realizan precisiones en el guión y se incorporan cambios en las comparsas.
 
-El desfile hace parte del patrimonio inmaterial, es una tradición que se revive cada año a través de los más de 800 actores que encarnan los personajes que componene el desfile.
+El desfile hace parte del patrimonio inmaterial, es una tradición que se revive cada año a través de los más de 800 actores que encarnan los personajes que componen el desfile.
 
 Las comparsas son agrupadas en varios cuadros. A través de música, danza y puestas en escena, se reviven hechos históricos de la ciudad. 
 
