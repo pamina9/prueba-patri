@@ -83,8 +83,7 @@ Las investigaciones han logrado determinar que hubo varios personajes con este m
 
 {% include feature/button.html text="Antón García de Bonilla" link="https://pamina9.github.io/prueba-patri/browse.html#ant%C3%B3n%20garc%C3%ADa%20de%20bonilla" color="success" centered=true %}
 
-- Comparsa: Aparición de la Virgen de Torcoroma - La Romería
-
+- Comparsa: Aparición de la Virgen de Torcoroma
 >En esta comparsa muestra la historia de la virgen de Torcoroma, este hecho es contado a través de la familia a quién se les apareció y los sigue una romería que acompañó en procesión la traída de la virgen aparecida en una astilla de madera.
 
 {% include feature/image.html objectid="assets/img/des7-1.jpg;assets/img/des7-2.jpg;assets/img/des7-3.jpg;assets/img/des7-4.jpg" alt="Comparsa Virgen Torcoroma;Comparsa Virgen Torcoroma;Comparsa Virgen Torcoroma;Comparsa Virgen Torcoroma" %}
