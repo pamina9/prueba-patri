@@ -110,7 +110,7 @@ El informe más antiguo sobre la milagrosa imagen data de 1774 y se debe al doct
 
 {% include feature/alert.html text="*Después de la derrota sufrida en Puerto Cabello y la Guaira que sofocó la rebelión de los criollos venezolanos contra los españoles, Simón Bolivar viajó hasta Cartagena y se unió allí a las tropas republicanas de la Nueva Granada, comenzó así, la llamada campaña del Bajo Magdalena. Después de tomar Tenerife atacó las fuerzas españolas en Mompox, viajó hasta el Banco, Chiriguaná y Tamalameque y luego hasta Puerto Real sin que los realistas obstruyeran su vertiginosa marcha, de Puerto Real pasó a la ciudad de Ocaña, luego comenzó la denominada campaña Admirable desde Ocaña hasta Caracas. Una multitud abirragada y parlanchina se amontonaba en la punta de El Llano. los ocañeros habían preparado un apoteósico recibimiento que inició con las aclamaciones de la multitud y siguió con la presentación de una corona y palabras de bienvenida por la jovencita Bárbara María Vicenta Lemus y una comisión de preciosas señoritas ocañeras.* " color="info" align="left" width="50" %}
 
-{% include feature/modal.html button="Bienes relacionados con Bolívar" title="Simón Bolívar" text="[Busto de Simón Bolívar](https://pamina9.github.io/prueba-patri/item.html?id=mu09) * [Club Ocaña](https://pamina9.github.io/prueba-patri/item.html?id=im12)" color="primary" %}
+{% include feature/modal.html button="Bienes relacionados con Bolívar" title="Simón Bolívar" text="[Busto de Simón Bolívar](https://pamina9.github.io/prueba-patri/item.html?id=mu09)  [Club Ocaña](https://pamina9.github.io/prueba-patri/item.html?id=im12)" color="primary" %}
 
 - Comparsa: Reino del Terror
 >En esta comparsa se representa la muerte de Miguel Caravagio, quien es fusilado por el general Pablo Morillo.
@@ -208,13 +208,13 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 
 ## Datos del desfile
 - El origen
->El desfile tiene como antecedente uno realizado en 1959, llamado desfile de Las Américas, donde un grupo de niñas salían con banderas y elementos representativos de cada país. En 1964 Alfonso Carrascal Claro convence a Carmito Quintero para que cambiara la dinámica del desfile, inspirado en uno que vio en Manizales llamado de Los Fundadores, La iniciativa fue secundada por el compositor y declamador Alfonso Carrascal Claro y entre otros, por don Margario Quintero Pacheco, don Antonio Patiño y don Carlos Torrado. La obra "Los Genitores", del Dr. Alejo Amaya, sirvió como fundamento histórico inicial del desfile.
+>El desfile tiene como antecedente uno realizado en 1959, llamado desfile de Las Américas, donde un grupo de niñas salían con banderas y elementos representativos de cada de diferentes países. En 1964 Alfonso Carrascal Claro convence a Carmito Quintero para que cambiara la dinámica del desfile, inspirado en uno que había visto en Manizales llamado de Los Fundadores. La iniciativa fue secundada por el compositor y declamador Alfonso Carrascal Claro y entre otros, por don Margario Quintero Pacheco, don Antonio Patiño y don Carlos Torrado. La obra "Los Genitores", del Dr. Alejo Amaya, sirvió como fundamento histórico inicial del desfile.
 
 - Los participantes
 >En la historia del desfile varios participantes han encarnado personajes por varios años. Se pueden encontrar como una tradición familiar participar en el desfile y se tiene registro de hasta cuatro generaciones.
 
 - Los espectadores
->Es común que año a año ocañeros y vicitantes disfruten del desfile, esta es una actividad que los niños disfrutan en compañía de sus familiares y que se va transmitiendo de generación en generación.
+>Es común que año a año ocañeros y visitantes disfruten del desfile, esta es una actividad que los niños disfrutan en compañía de sus familiares y que se va transmitiendo de generación en generación.
 
 - Variaciones
 >Cada año se realizan variaciones y puede incluir más o menos comparsas, así como el orden también puede variar.
@@ -248,10 +248,10 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 - Comparsa: Los Gitanos
 - Comparsa: Danza del Tigre
 - Comparsa: Los Capuchones
-7. Cuadro Extrangeros en Ocaña
+7. Cuadro Extranjeros en Ocaña
 - Comparsa: Sirios y Libaneses
 8. Cuadro Historia del Transporte
 - Comparsa: Los Arrieros
 - Comparsa: El cable aéreo
 - Comparsa: Inauguración carretera Ocaña-Gamarra
-- Comparsa: Aerolíneas Torocoroma
+- Comparsa: Aerolíneas Torcoroma
