@@ -6,7 +6,7 @@ permalink: /desfile.html
 
 {% include feature/jumbotron.html objectid="objects/portada-des.jpg" %}
 
-{% include feature/nav-menu.html sections="Sobre el desfile;Cuadros y comparsas;Datos del desfile" %}
+{% include feature/nav-menu.html sections="Sobre el desfile;Cuadros y comparsas;Datos del desfile;Colección" %}
 
 ## Sobre el desfile
 
@@ -255,3 +255,6 @@ Ocaña fue escogida por las condiciones de aislamiento y seguridad para el traba
 - Comparsa: El cable aéreo
 - Comparsa: Inauguración carretera Ocaña-Gamarra
 - Comparsa: Aerolíneas Torcoroma
+
+## Colección
+Puedes ver los elementos de la colección que hacen parte del [desfile de los genitores](https://pamina9.github.io/prueba-patri/item.html?id=in02) Estas fueron las comparsas que salieron en el desfile de 2023.
